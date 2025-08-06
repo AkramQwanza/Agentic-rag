@@ -1,0 +1,15 @@
+
+                    Slide Number 22
+                    Slide Title : Points Critiques Spécifiques à Intégrer dans la Roadmap en urgence
+                    Slide Text : Points Critiques à Intégrer dans la RoadmapPoints Critiques Spécifiques à Intégrer dans la Roadmap en urgence
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Points Critiques à Intégrer dans la Roadmap', 'left': 455946, 'top': 44624, 'width': 6372000, 'height': 288924}
+{'chart_type': 'text', 'text': 'Points Critiques Spécifiques à Intégrer dans la Roadmap ', 'left': 455945, 'top': 303731, 'width': 11304000, 'height': 432048}
+{'chart_type': 'text', 'text': 'en urgence', 'left': 455945, 'top': 303731, 'width': 11304000, 'height': 432048}

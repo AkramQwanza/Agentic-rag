@@ -1,0 +1,13 @@
+
+                    Slide Number 23
+                    Slide Title : 
+                    Slide Text : annexe
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'annexe', 'left': 660400, 'top': 2662236, 'width': 5434013, 'height': 1533525}

@@ -1,0 +1,18 @@
+
+                    Slide Number 2
+                    Slide Title : Sommaire
+                    Slide Text : SommaireCONTEXTE & OBJECTIFS DÉMARCHE DE L’INTERVENTIONSYNTHÈSE DES CONSTATSDIAGNOSTIC ET AXES DE RÉFLEXIONPOINTS CRITIQUES À INTÉGRER DANS LA ROADMAP
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Sommaire', 'left': 455946, 'top': 303731, 'width': 7903127, 'height': 432048}
+{'chart_type': 'text', 'text': 'CONTEXTE & OBJECTIFS ', 'left': 1194347, 'top': 1505266, 'width': 6247270, 'height': 369332}
+{'chart_type': 'text', 'text': 'DÉMARCHE DE L’INTERVENTION', 'left': 1194346, 'top': 2390189, 'width': 6108975, 'height': 369332}
+{'chart_type': 'text', 'text': 'SYNTHÈSE DES CONSTATS', 'left': 1194347, 'top': 3244334, 'width': 6140326, 'height': 369332}
+{'chart_type': 'text', 'text': 'DIAGNOSTIC ET AXES DE RÉFLEXION', 'left': 1194347, 'top': 4098479, 'width': 6102206, 'height': 369332}
+{'chart_type': 'text', 'text': 'POINTS CRITIQUES À INTÉGRER DANS LA ROADMAP', 'left': 1194347, 'top': 4952624, 'width': 6203578, 'height': 369332}

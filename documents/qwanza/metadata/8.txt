@@ -1,0 +1,19 @@
+
+                    Slide Number 8
+                    Slide Title : Une pyramide des âges déséquilibrée avec des risques de renouvellement des compétences
+                    Slide Text : SYNTHÈSE DES CONSTATS : pyramide des âges Une pyramide des âges déséquilibrée avec des risques de renouvellement des compétencesRépartition des effectifs interne de la DSI par tranches d’âgeSous-représentation des jeunes talents : Seulement 11% des effectifs sont âgés de 20-30 ans, contre 20-25% en moyenne dans le secteur.Concentration des effectifs expérimentés : 38% des ETP se situent dans la tranche 40-50 ans, représentant une force clé mais à équilibrer.Risque de perte de compétences : 29% des effectifs ont plus de 50 ans, nécessitant un plan de transfert des connaissances.Observations
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'SYNTHÈSE DES CONSTATS : pyramide des âges ', 'left': 455946, 'top': 44624, 'width': 6372000, 'height': 288924}
+{'chart_type': 'text', 'text': 'Une pyramide des âges déséquilibrée avec des risques de renouvellement des compétences', 'left': 455945, 'top': 303731, 'width': 11734468, 'height': 432048}
+{'chart_type': 'text', 'text': 'Répartition des effectifs interne de la DSI par tranches d’âge', 'left': 814380, 'top': 1077522, 'width': 5084884, 'height': 630213}
+{'chart_type': 'text', 'text': 'Sous-représentation des jeunes talents : Seulement 11% des effectifs sont âgés de 20-30 ans, contre 20-25% en moyenne dans le secteur.', 'left': 6291149, 'top': 1699184, 'width': 5084884, 'height': 4410037}
+{'chart_type': 'text', 'text': 'Concentration des effectifs expérimentés : 38% des ETP se situent dans la tranche 40-50 ans, représentant une force clé mais à équilibrer.', 'left': 6291149, 'top': 1699184, 'width': 5084884, 'height': 4410037}
+{'chart_type': 'text', 'text': 'Risque de perte de compétences : 29% des effectifs ont plus de 50 ans, nécessitant un plan de transfert des connaissances.', 'left': 6291149, 'top': 1699184, 'width': 5084884, 'height': 4410037}
+{'chart_type': 'text', 'text': 'Observations', 'left': 6291148, 'top': 1077522, 'width': 5084884, 'height': 630213}

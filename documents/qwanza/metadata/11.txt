@@ -1,0 +1,40 @@
+
+                    Slide Number 11
+                    Slide Title : CIO Office : Pilotage Budgétaire, Gestion de la Demande et Portefeuille Projets
+                    Slide Text : Résultats des questionnairesCIO Office : Pilotage Budgétaire, Gestion de la Demande et Portefeuille ProjetsBudgetGestion DemandePortefeuille Alignement stratégique du budget avec les priorités de l’entreprise.Processus en place pour le suivi des coûts et l’analyse des écarts.Distinction entre dépenses OPEX et CAPEX, renforçant la transparence.Processus partiellement défini pour collecter et tracer les demandes.Collaboration SI/métiers en place, bien que limitée et perfectible.Gestion centralisée des demandes amorcée.Alignement stratégique des projets avec les priorités de l’entreprise.Utilisation d’outils pour centraliser et piloter le portefeuille projets.Absence de tableaux de bord partagés avec les métiers pour piloter efficacement les investissements.Absence de réserve budgétaire pour couvrir les imprévus ou aléas.Absence de priorisation stratégique et de suivi des délais.Pas de processus d’escalade pour gérer les demandes critiques.Faible usage d’outils et absence de KPIs pour mesurer la performance.Absence de processus de sélection et d’évaluation des risques au niveau du portefeuille.Manque de gestion des KPIs de performance.Contribution du portefeuille à la création de valeur non évaluée.Mettre en place des tableaux de bord ( incluant les ROI) pour suivre et partager les indicateurs budgétaires.Intégrer une réserve budgétaire pour anticiper les imprévus et sécuriser les investissements.Mise en place d’outils PPM pour la gestion des demandes et formation des équipes SI.Ateliers collaboratifs SI/métiers pour optimiser les processus de gestion des demandesMettre en place un processus structuré de sélection des projets via des ateliers stratégiques.Élaborer des KPIs et implémenter une solution PPM pour mesurer la performance et la valeur.Formaliser la gestion des risques et interdépendances 
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Résultats des questionnaires', 'left': 455946, 'top': 44624, 'width': 4536802, 'height': 288924}
+{'chart_type': 'text', 'text': 'CIO Office : Pilotage Budgétaire, Gestion de la Demande et Portefeuille Projets', 'left': 455946, 'top': 303731, 'width': 11002991, 'height': 432048}
+{'chart_type': 'text', 'text': 'Budget', 'left': -9364, 'top': 1831473, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Gestion Demande', 'left': -9364, 'top': 3205644, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Portefeuille ', 'left': -124568, 'top': 4732232, 'width': 1460264, 'height': 325917}
+{'chart_type': 'text', 'text': 'Alignement stratégique du budget avec les priorités de l’entreprise.', 'left': 3549316, 'top': 1411851, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Processus en place pour le suivi des coûts et l’analyse des écarts.', 'left': 3549316, 'top': 1411851, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Distinction entre dépenses OPEX et CAPEX, renforçant la transparence.', 'left': 3549316, 'top': 1411851, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Processus partiellement défini pour collecter et tracer les demandes.', 'left': 3549316, 'top': 2786022, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Collaboration SI/métiers en place, bien que limitée et perfectible.', 'left': 3549316, 'top': 2786022, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Gestion centralisée des demandes amorcée.', 'left': 3549316, 'top': 2786022, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Alignement stratégique des projets avec les priorités de l’entreprise.', 'left': 3549316, 'top': 4197404, 'width': 2534063, 'height': 1427917}
+{'chart_type': 'text', 'text': 'Utilisation d’outils pour centraliser et piloter le portefeuille projets.', 'left': 3549316, 'top': 4197404, 'width': 2534063, 'height': 1427917}
+{'chart_type': 'text', 'text': 'Absence de tableaux de bord partagés avec les métiers pour piloter efficacement les investissements.', 'left': 6210759, 'top': 1428602, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Absence de réserve budgétaire pour couvrir les imprévus ou aléas.', 'left': 6210759, 'top': 1428602, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Absence de priorisation stratégique et de suivi des délais.', 'left': 6210759, 'top': 2802773, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Pas de processus d’escalade pour gérer les demandes critiques.', 'left': 6210759, 'top': 2802773, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Faible usage d’outils et absence de KPIs pour mesurer la performance.', 'left': 6210759, 'top': 2802773, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Absence de processus de sélection et d’évaluation des risques au niveau du portefeuille.', 'left': 6210759, 'top': 4214155, 'width': 2534063, 'height': 1427917}
+{'chart_type': 'text', 'text': 'Manque de gestion des KPIs de performance.', 'left': 6210759, 'top': 4214155, 'width': 2534063, 'height': 1427917}
+{'chart_type': 'text', 'text': 'Contribution du portefeuille à la création de valeur non évaluée.', 'left': 6210759, 'top': 4214155, 'width': 2534063, 'height': 1427917}
+{'chart_type': 'text', 'text': 'Mettre en place des tableaux de bord ( incluant les ROI) pour suivre et partager les indicateurs budgétaires.', 'left': 8883299, 'top': 1428602, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Intégrer une réserve budgétaire pour anticiper les imprévus et sécuriser les investissements.', 'left': 8883299, 'top': 1428602, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Mise en place d’outils PPM pour la gestion des demandes et formation des équipes SI.', 'left': 8883299, 'top': 2802773, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Ateliers collaboratifs SI/métiers pour optimiser les processus de gestion des demandes', 'left': 8883299, 'top': 2802773, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Mettre en place un processus structuré de sélection des projets via des ateliers stratégiques.', 'left': 8883299, 'top': 4214155, 'width': 2534063, 'height': 1427917}
+{'chart_type': 'text', 'text': 'Élaborer des KPIs et implémenter une solution PPM pour mesurer la performance et la valeur.', 'left': 8883299, 'top': 4214155, 'width': 2534063, 'height': 1427917}
+{'chart_type': 'text', 'text': 'Formaliser la gestion des risques et interdépendances ', 'left': 8883299, 'top': 4214155, 'width': 2534063, 'height': 1427917}

@@ -1,0 +1,35 @@
+
+                    Slide Number 5
+                    Slide Title : Notre évaluation rapide de la maturité s’appuie sur des questionnaires d’audit et des questions Complémentaires 
+                    Slide Text : ITILGestion des Incidents | Gestion des Problèmes | Gestion des Changements2. DÉMARCHE DE L’INTERVENTION : Adaptation du model au contexte de cette Analyse rapide Notre évaluation rapide de la maturité s’appuie sur des questionnaires d’audit et des questions Complémentaires OpérationsExploitation | Gestion des Infrastructures | Implémentation du CloudCIO OFFICEProcessus du Pilotage budgétaire | Gestion de la demande | Pilotage des portefeuille projetsDéveloppement et d’IntégrationDéveloppement d'Applications | Intégration de ProgicielsArchitectureArchitecture d'Entreprise (TOGAF) | Architecture Applicative | Architecture Cloud | Architecture Data Gestion des fournisseursGestion des Fournisseurs | Software Asset Management (SAM) Innovation et ModernisationDette Technique | Modernité technologique | Gestion Innovation Data, IA et DigitalisationData | IA | DigitalisationDigital  WorkplaceDigital Workplace | Support de Proximité | Gestion des Flottes | Gestion des Postes de Travail  | Gestion du Réseau de Télécommunication En plus de l’analyse globale nous avons structuré ce diagnostic rapide autour de 10 axes stratégiques pour une analyse ciblée.Agilité de l’organisationAgilité | DEVSECOPS | Agilité à l'Échelle
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'ITIL', 'left': 2715778, 'top': 1630401, 'width': 2015613, 'height': 645158}
+{'chart_type': 'text', 'text': 'Gestion des Incidents | Gestion des Problèmes | Gestion des Changements', 'left': 2715778, 'top': 2317530, 'width': 2015613, 'height': 1566212}
+{'chart_type': 'text', 'text': '2. DÉMARCHE DE L’INTERVENTION : Adaptation du model au contexte de cette Analyse rapide ', 'left': 455946, 'top': 44624, 'width': 8225938, 'height': 259107}
+{'chart_type': 'text', 'text': 'Notre évaluation rapide de la maturité s’appuie sur des questionnaires d’audit et des questions Complémentaires ', 'left': 455945, 'top': 303731, 'width': 11411590, 'height': 432048}
+{'chart_type': 'text', 'text': 'Opérations', 'left': 9474635, 'top': 1630401, 'width': 2015613, 'height': 645158}
+{'chart_type': 'text', 'text': 'Exploitation | Gestion des Infrastructures | Implémentation du Cloud', 'left': 9474635, 'top': 2317530, 'width': 2015613, 'height': 1566212}
+{'chart_type': 'text', 'text': 'CIO OFFICE', 'left': 454359, 'top': 1630401, 'width': 2015613, 'height': 645158}
+{'chart_type': 'text', 'text': 'Processus du Pilotage budgétaire | Gestion de la demande | Pilotage des portefeuille projets', 'left': 454359, 'top': 2317530, 'width': 2015613, 'height': 1566212}
+{'chart_type': 'text', 'text': 'Développement et d’Intégration', 'left': 4977197, 'top': 1630401, 'width': 2015613, 'height': 645158}
+{'chart_type': 'text', 'text': "Développement d'Applications | Intégration de Progiciels", 'left': 4977197, 'top': 2317530, 'width': 2015613, 'height': 1566212}
+{'chart_type': 'text', 'text': 'Architecture', 'left': 454359, 'top': 4038601, 'width': 2015613, 'height': 645157}
+{'chart_type': 'text', 'text': "Architecture d'Entreprise (TOGAF) | Architecture Applicative | Architecture Cloud | Architecture Data ", 'left': 454359, 'top': 4725730, 'width': 2015613, 'height': 1566212}
+{'chart_type': 'text', 'text': 'Gestion des fournisseurs', 'left': 2715778, 'top': 4038601, 'width': 2015613, 'height': 645157}
+{'chart_type': 'text', 'text': 'Gestion des Fournisseurs | Software Asset Management (SAM) ', 'left': 2715778, 'top': 4725730, 'width': 2015613, 'height': 1566212}
+{'chart_type': 'text', 'text': 'Innovation et Modernisation', 'left': 4977197, 'top': 4038601, 'width': 2015613, 'height': 645157}
+{'chart_type': 'text', 'text': 'Dette Technique | Modernité technologique | Gestion Innovation ', 'left': 4977197, 'top': 4725730, 'width': 2015613, 'height': 1566212}
+{'chart_type': 'text', 'text': 'Data, IA et Digitalisation', 'left': 7238616, 'top': 4038601, 'width': 2041013, 'height': 645157}
+{'chart_type': 'text', 'text': 'Data | IA | Digitalisation', 'left': 7238616, 'top': 4725730, 'width': 2015613, 'height': 1566212}
+{'chart_type': 'text', 'text': 'Digital  Workplace', 'left': 9500035, 'top': 4038601, 'width': 2015613, 'height': 645157}
+{'chart_type': 'text', 'text': 'Digital Workplace | Support de Proximité | Gestion des Flottes | Gestion des Postes de Travail  | Gestion du Réseau de Télécommunication ', 'left': 9500035, 'top': 4725730, 'width': 2015613, 'height': 1566212}
+{'chart_type': 'text', 'text': 'En plus de l’analyse globale nous avons structuré ce diagnostic rapide autour de 10 axes stratégiques pour une analyse ciblée.', 'left': 435045, 'top': 874537, 'width': 11080603, 'height': 565457}
+{'chart_type': 'text', 'text': 'Agilité de l’organisation', 'left': 7213216, 'top': 1630401, 'width': 2041013, 'height': 645158}
+{'chart_type': 'text', 'text': "Agilité | DEVSECOPS | Agilité à l'Échelle", 'left': 7240221, 'top': 2317530, 'width': 2015613, 'height': 1566212}

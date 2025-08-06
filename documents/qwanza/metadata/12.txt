@@ -1,0 +1,46 @@
+
+                    Slide Number 12
+                    Slide Title :  Itil : Gestion des Incidents, Gestion des Problèmes et Gestion des Changements
+                    Slide Text : Résultats des questionnaires Itil : Gestion des Incidents, Gestion des Problèmes et Gestion des ChangementsIncidentsProblèmesChangementsCommunication efficace sur la résolution des incidents.Processus documenté et priorisation partiellement.Suivi partiel des métriques d’incidents en cours.Les actions correctives sont mises en œuvre rapidement.Les causes racines des incidents sont partiellement analysées.Les parties prenantes reçoivent des informations correctives adaptées.Processus de gestion des changements défini et formalisé.Évaluation des impacts et suivi des résultats des changements.Outils adaptés et métriques suivies pour une gestion efficace.Absence de SPOC et outils pour la gestion centralisée.Non-respect des SLA, impactant la qualité de service.Pas de traitement des incidents critiques ou récurrents.Absence de processus formel pour gérer les problèmes récurrents.Pas d’outils adaptés ni de base de connaissances centralisée.Les problèmes critiques ne sont pas escaladés efficacement.Communication partielle avec les utilisateurs sur les changements planifiés. Risques en cas de mauvaise anticipation des tests ou de la communication.Mettre en place un SPOC et outils ITSM efficaces.Mettre en place une approche smart support / shift leftRenforcer le respect des SLA avec un suivi rigoureux.Définir un processus clair et une base de connaissances.Mettre en place des outils adaptés pour suivre les problèmes.Formaliser un processus d'escalade pour les problèmes critiques.Renforcer la communication proactive avec les utilisateurs.Améliorer la fiabilité des tests avant la mise en production.Standardiser les processus pour garantir la qualité des tests et des validations.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Résultats des questionnaires', 'left': 455946, 'top': 44624, 'width': 4536802, 'height': 288924}
+{'chart_type': 'text', 'text': ' ', 'left': 455946, 'top': 303731, 'width': 11002991, 'height': 432048}
+{'chart_type': 'text', 'text': 'Itil', 'left': 455946, 'top': 303731, 'width': 11002991, 'height': 432048}
+{'chart_type': 'text', 'text': ' : Gestion des Incidents, Gestion des Problèmes et Gestion des Changements', 'left': 455946, 'top': 303731, 'width': 11002991, 'height': 432048}
+{'chart_type': 'text', 'text': 'Incidents', 'left': -9364, 'top': 1907674, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Problèmes', 'left': -9364, 'top': 3281845, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Changements', 'left': -54353, 'top': 4738216, 'width': 1319831, 'height': 325917}
+{'chart_type': 'text', 'text': 'Communication efficace sur la résolution des incidents.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Processus documenté et priorisation partiellement.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Suivi partiel des métriques d’incidents en cours.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Les actions correctives sont mises en œuvre rapidement.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Les causes racines des incidents sont partiellement analysées.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Les parties prenantes reçoivent des informations correctives adaptées.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Processus de gestion des changements défini et formalisé.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1287484}
+{'chart_type': 'text', 'text': 'Évaluation des impacts et suivi des résultats des changements.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1287484}
+{'chart_type': 'text', 'text': 'Outils adaptés et métriques suivies pour une gestion efficace.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1287484}
+{'chart_type': 'text', 'text': 'Absence de SPOC et outils pour la gestion centralisée.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Non-respect des SLA, impactant la qualité de service.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Pas de traitement des incidents critiques ou récurrents.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Absence de processus formel pour gérer les problèmes récurrents.', 'left': 6210759, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Pas d’outils adaptés ni de base de connaissances centralisée.', 'left': 6210759, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Les problèmes critiques ne sont pas escaladés efficacement.', 'left': 6210759, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Communication partielle avec les utilisateurs sur les changements planifiés. ', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1287484}
+{'chart_type': 'text', 'text': 'Risques en cas de mauvaise anticipation des tests ou de la communication.', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1287484}
+{'chart_type': 'text', 'text': 'Mettre en place un SPOC et outils ITSM efficaces.', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Mettre en place une approche smart support / shift ', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'left', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Renforcer le respect des SLA avec un suivi rigoureux.', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Définir un processus clair et une base de connaissances.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Mettre en place des outils adaptés pour suivre les problèmes.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': "Formaliser un processus d'escalade pour les problèmes critiques.", 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Renforcer la communication proactive avec les utilisateurs.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1287484}
+{'chart_type': 'text', 'text': 'Améliorer la fiabilité des tests avant la mise en production.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1287484}
+{'chart_type': 'text', 'text': 'Standardiser les processus pour garantir la qualité des tests et des validations.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1287484}

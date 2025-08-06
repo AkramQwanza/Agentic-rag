@@ -1,0 +1,53 @@
+
+                    Slide Number 19
+                    Slide Title : Postes de travail et flottes : Digital Workplace, Support de Proximité, Gestion des Flottes, Gestion des Postes de Travail et Réseau de Télécom
+                    Slide Text : Résultats des questionnairesPostes de travail et flottes : Digital Workplace, Support de Proximité, Gestion des Flottes, Gestion des Postes de Travail et Réseau de TélécomDigitalEnvironnements accessible et équipements à jours .Support technique réactif et DSI proactive.Manque de suivi des indicateurs de satisfaction des utilisateurs.Manque de personnalisation des environnements digitaux.Instaurer des indicateurs de satisfaction des utilisateurs.Optimiser les environnements afin de s’ajuster aux besoins métiers.Support de ProximitéRéactivité et assistance répondant aux besoins utilisateursRésolution rapide des problèmes.Non maitrise des SLA, nécessitant des améliorations.Collaboration limitée entre équipes locales et IT centrales.Mettre en place un tableau de bord pour les SLA.Renforcer les synergies entre équipes locales et centrales IT.Gestion des FlottesSécurité et support efficaces pour les équipements mobiles.Mise en place de solutions MDM pour la gestion des flottes.BYOD absente, créant des risques pour l’intégration des appareils.Inventaire incomplet des équipements, limitant le contrôle.Définir et déployer une politique BYOD pour sécuriser les appareils.Optimiser l’inventaire des équipements via des outils de suivi.Postes de TravailSécurité renforcée des postes contre les cybermenaces.Renouvellement des Postes évitant les défaillances impactantees.Absence de suivi des performances, limitant leur optimisation.Les incidents liés aux postes ne sont pas correctement gérés.Monitorer les performances via des outils adaptés.Créer un système de gestion d’incidents centralisé.Réseaude TélécomMise en place d’une sécurisation renforcée des accès réseau.Gestion proactive minimisant les temps d’arrêt et interruptions.Absence d’audits réguliers pour garantir la performance du réseau.Outils de monitoring réseau inefficaces, limitant l’optimisation.Déployer un système d’audit régulier.Introduire des solutions avancées pour surveiller le réseau.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Résultats des questionnaires', 'left': 455946, 'top': 44624, 'width': 4536802, 'height': 288924}
+{'chart_type': 'text', 'text': 'Postes de travail et flottes : ', 'left': 455946, 'top': 303731, 'width': 11278521, 'height': 432048}
+{'chart_type': 'text', 'text': 'Digital Workplace, Support de Proximité, Gestion des Flottes, Gestion des Postes de Travail et Réseau de Télécom', 'left': 455946, 'top': 303731, 'width': 11278521, 'height': 432048}
+{'chart_type': 'text', 'text': 'Digital', 'left': 256107, 'top': 1429059, 'width': 777885, 'height': 762580}
+{'chart_type': 'text', 'text': 'Environnements accessible et équipements à jours .', 'left': 3814787, 'top': 1429059, 'width': 2534063, 'height': 762579}
+{'chart_type': 'text', 'text': 'Support technique réactif et DSI proactive.', 'left': 3814787, 'top': 1429059, 'width': 2534063, 'height': 762579}
+{'chart_type': 'text', 'text': 'Manque de suivi des indicateurs de satisfaction des utilisateurs.', 'left': 6476230, 'top': 1445811, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Manque de personnalisation des environnements digitaux.', 'left': 6476230, 'top': 1445811, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Instaurer des indicateurs de satisfaction des utilisateurs.', 'left': 9148770, 'top': 1445811, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Optimiser les environnements afin de s’ajuster aux besoins ', 'left': 9148770, 'top': 1445811, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'métiers', 'left': 9148770, 'top': 1445811, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': '.', 'left': 9148770, 'top': 1445811, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Support de Proximité', 'left': 256107, 'top': 2290456, 'width': 777885, 'height': 762580}
+{'chart_type': 'text', 'text': 'Réactivité et assistance répondant aux besoins utilisateurs', 'left': 3814787, 'top': 2290456, 'width': 2534063, 'height': 762579}
+{'chart_type': 'text', 'text': 'Résolution rapide des problèmes.', 'left': 3814787, 'top': 2290456, 'width': 2534063, 'height': 762579}
+{'chart_type': 'text', 'text': 'Non maitrise des SLA, nécessitant des améliorations.', 'left': 6476230, 'top': 2307208, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Collaboration limitée entre équipes locales et IT centrales.', 'left': 6476230, 'top': 2307208, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Mettre en place un tableau de bord pour les SLA.', 'left': 9148770, 'top': 2307208, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Renforcer les synergies entre équipes locales et centrales IT.', 'left': 9148770, 'top': 2307208, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Gestion des Flottes', 'left': 256107, 'top': 3141149, 'width': 777885, 'height': 762580}
+{'chart_type': 'text', 'text': 'Sécurité et support efficaces pour les équipements mobiles.', 'left': 3814787, 'top': 3141149, 'width': 2534063, 'height': 762579}
+{'chart_type': 'text', 'text': 'Mise en place de solutions MDM pour la gestion des flottes.', 'left': 3814787, 'top': 3141149, 'width': 2534063, 'height': 762579}
+{'chart_type': 'text', 'text': 'BYOD absente, créant des risques pour l’intégration des appareils.', 'left': 6476230, 'top': 3157901, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Inventaire incomplet des équipements, limitant le contrôle.', 'left': 6476230, 'top': 3157901, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Définir et déployer une politique BYOD pour sécuriser les appareils.', 'left': 9148770, 'top': 3157901, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Optimiser l’inventaire des équipements via des outils de suivi.', 'left': 9148770, 'top': 3157901, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Postes de Travail', 'left': 256107, 'top': 4027443, 'width': 777885, 'height': 762580}
+{'chart_type': 'text', 'text': 'Sécurité renforcée des postes contre les cybermenaces.', 'left': 3814787, 'top': 4027443, 'width': 2534063, 'height': 762579}
+{'chart_type': 'text', 'text': 'Renouvellement des Postes évitant les défaillances impactantees.', 'left': 3814787, 'top': 4027443, 'width': 2534063, 'height': 762579}
+{'chart_type': 'text', 'text': 'Absence de suivi des performances, limitant leur optimisation.', 'left': 6476230, 'top': 4044195, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Les incidents liés aux postes ne sont pas correctement gérés.', 'left': 6476230, 'top': 4044195, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Monitorer les performances via des outils adaptés.', 'left': 9148770, 'top': 4044195, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Créer un système de gestion d’incidents centralisé.', 'left': 9148770, 'top': 4044195, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Réseau', 'left': 256107, 'top': 4890964, 'width': 777885, 'height': 762580}
+{'chart_type': 'text', 'text': 'de Télécom', 'left': 256107, 'top': 4890964, 'width': 777885, 'height': 762580}
+{'chart_type': 'text', 'text': 'Mise en place d’une sécurisation renforcée des accès réseau.', 'left': 3814787, 'top': 4890964, 'width': 2534063, 'height': 762579}
+{'chart_type': 'text', 'text': 'Gestion proactive minimisant les temps d’arrêt et interruptions.', 'left': 3814787, 'top': 4890964, 'width': 2534063, 'height': 762579}
+{'chart_type': 'text', 'text': 'Absence d’audits réguliers pour garantir la performance du réseau.', 'left': 6476230, 'top': 4907716, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Outils de monitoring réseau inefficaces, limitant l’optimisation.', 'left': 6476230, 'top': 4907716, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Déployer un système d’audit régulier.', 'left': 9148770, 'top': 4907716, 'width': 2534063, 'height': 749437}
+{'chart_type': 'text', 'text': 'Introduire des solutions avancées pour surveiller le réseau.', 'left': 9148770, 'top': 4907716, 'width': 2534063, 'height': 749437}

@@ -1,0 +1,14 @@
+
+                    Slide Number 24
+                    Slide Title : Les fichiers de données du diagnostic flash 
+                    Slide Text : annexeLes fichiers de données du diagnostic flash 
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'annexe', 'left': 455946, 'top': 44624, 'width': 6372000, 'height': 288924}
+{'chart_type': 'text', 'text': 'Les fichiers de données du diagnostic flash ', 'left': 455945, 'top': 303731, 'width': 11304000, 'height': 432048}

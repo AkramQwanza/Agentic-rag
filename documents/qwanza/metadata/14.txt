@@ -1,0 +1,53 @@
+
+                    Slide Number 14
+                    Slide Title :  Agility : Agilité, DEVSECOPS et Agilité à l'Échelle
+                    Slide Text : Résultats des questionnaires Agility : Agilité, DEVSECOPS et Agilité à l'ÉchelleAgilitéDEVSECOPSà l'ÉchelleAutonomie des équipes et priorisation efficace des backlogs.Suivi des métriques agiles, améliorant les performances.Utilisation d’outils collaboratifs optimisant le travail agile.Vulnérabilités détectées et corrigées rapidement.Politiques de sécurité mises à jour régulièrement.Plan de reprise IT après incident bien défini, assurant la résilience.Initiatives agiles alignées avec la stratégie globale de l’entreprise.Développement d’une orientation stratégique favorisant l’agilité à l’échelle.Collaboration métiers-IT limitée, impactant les itérations.Soutien limité de la direction pour l’agilité.Formation des équipes insuffisante sur les principes et pratiques agiles.Automatisation CI/CD et tests de sécurité intégrés inexistants.Collaboration Dev et Ops insuffisante, freinant l’efficacité.Monitoring partiel, limitant la prévention proactive des incidents.Absence de framework d’agilité à l’échelle structuré (SAFe, LeSS, etc.).Manque de coordination inter-équipes et de gestion des dépendances.Manque d’outils et d’indicateurs pour supporter l’agilité à l’échelle.Renforcer l’alignement métiers-IT via ateliers collaboratifs.Former équipes et direction sur les pratiques agiles.Standardiser cérémonies et feedbacks pour des itérations fluides.Automatiser pipelines CI/CD avec intégration des tests de sécurité.Renforcer collaboration Dev et Ops via méthodologies et ateliers.Déployer des outils avancés de monitoring pour améliorer la détection proactive.Mettre en place un framework d’agilité à l’échelle.Structurer la priorisation et coordonner les dépendances via des rituels multi-équipes adaptés.Déployer des outils et indicateurs pour soutenir l’agilité organisationnelle.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Résultats des questionnaires', 'left': 455946, 'top': 44624, 'width': 4536802, 'height': 288924}
+{'chart_type': 'text', 'text': " Agility : Agilité, DEVSECOPS et Agilité à l'Échelle", 'left': 455946, 'top': 303731, 'width': 11002991, 'height': 432048}
+{'chart_type': 'text', 'text': 'Agilité', 'left': -9364, 'top': 1838850, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'DEVSECOPS', 'left': -9364, 'top': 3213021, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': "à l'Échelle", 'left': -115313, 'top': 4730352, 'width': 1441751, 'height': 325917}
+{'chart_type': 'text', 'text': 'Autonomie des équipes et priorisation efficace des ', 'left': 3549316, 'top': 1419228, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'backlogs', 'left': 3549316, 'top': 1419228, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': '.', 'left': 3549316, 'top': 1419228, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Suivi des métriques agiles, améliorant les performances.', 'left': 3549316, 'top': 1419228, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Utilisation d’outils collaboratifs optimisant le travail agile.', 'left': 3549316, 'top': 1419228, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Vulnérabilités détectées et corrigées rapidement.', 'left': 3549316, 'top': 2793399, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Politiques de sécurité mises à jour régulièrement.', 'left': 3549316, 'top': 2793399, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Plan de reprise IT après incident bien défini, assurant la résilience.', 'left': 3549316, 'top': 2793399, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Initiatives agiles alignées avec la stratégie globale de l’entreprise.', 'left': 3549316, 'top': 4204781, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': 'Développement d’une orientation stratégique favorisant l’agilité à l’échelle.', 'left': 3549316, 'top': 4204781, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': 'Collaboration métiers-IT limitée, impactant les itérations.', 'left': 6210759, 'top': 1435979, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Soutien limité de la direction pour l’agilité.', 'left': 6210759, 'top': 1435979, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Formation des équipes insuffisante sur les principes et pratiques agiles.', 'left': 6210759, 'top': 1435979, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Automatisation CI/CD et tests de sécurité intégrés inexistants.', 'left': 6210759, 'top': 2810150, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Collaboration Dev et Ops insuffisante, freinant l’efficacité.', 'left': 6210759, 'top': 2810150, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Monitoring partiel, limitant la prévention proactive des incidents.', 'left': 6210759, 'top': 2810150, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Absence de ', 'left': 6210759, 'top': 4221532, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': 'framework', 'left': 6210759, 'top': 4221532, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': ' d’agilité à l’échelle structuré (', 'left': 6210759, 'top': 4221532, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': 'SAFe', 'left': 6210759, 'top': 4221532, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': ', ', 'left': 6210759, 'top': 4221532, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': 'LeSS', 'left': 6210759, 'top': 4221532, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': ', etc.).', 'left': 6210759, 'top': 4221532, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': 'Manque de coordination inter-équipes et de gestion des dépendances.', 'left': 6210759, 'top': 4221532, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': 'Manque d’outils et d’indicateurs pour supporter l’agilité à l’échelle.', 'left': 6210759, 'top': 4221532, 'width': 2534063, 'height': 1409404}
+{'chart_type': 'text', 'text': 'Renforcer l’alignement métiers-IT via ateliers collaboratifs.', 'left': 8883299, 'top': 1435979, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Former équipes et direction sur les pratiques agiles.', 'left': 8883299, 'top': 1435979, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Standardiser cérémonies et feedbacks pour des itérations fluides.', 'left': 8883299, 'top': 1435979, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Automatiser pipelines CI/CD avec intégration des tests de sécurité.', 'left': 8883299, 'top': 2810150, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Renforcer collaboration Dev et Ops via méthodologies et ateliers.', 'left': 8883299, 'top': 2810150, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Déployer des outils avancés de monitoring pour améliorer la détection proactive.', 'left': 8883299, 'top': 2810150, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Mettre en place un ', 'left': 8883299, 'top': 4221532, 'width': 2534063, 'height': 1392653}
+{'chart_type': 'text', 'text': 'framework', 'left': 8883299, 'top': 4221532, 'width': 2534063, 'height': 1392653}
+{'chart_type': 'text', 'text': ' d’agilité à l’échelle.', 'left': 8883299, 'top': 4221532, 'width': 2534063, 'height': 1392653}
+{'chart_type': 'text', 'text': 'Structurer la priorisation et coordonner les dépendances via des rituels multi-équipes adaptés.', 'left': 8883299, 'top': 4221532, 'width': 2534063, 'height': 1392653}
+{'chart_type': 'text', 'text': 'Déployer des outils et indicateurs pour soutenir l’agilité organisationnelle.', 'left': 8883299, 'top': 4221532, 'width': 2534063, 'height': 1392653}

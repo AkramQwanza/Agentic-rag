@@ -1,0 +1,34 @@
+
+                    Slide Number 13
+                    Slide Title :  Développement et Intégration : Développement d'Applications et Intégration de Progiciels
+                    Slide Text : Résultats des questionnaires Développement et Intégration : Développement d'Applications et Intégration de ProgicielsDéveloppementProcessus de développement standardisé avec adoption d’outils modernes et pratiques efficaces.Documentation du code maintenue à jour pour une meilleure traçabilité et gestion des projets.Processus de maintenance défini pour assurer la pérennité des applications développées.Tests non automatisés, augmentant le risque d’erreurs et les délais de livraison.Collaboration limitée avec les utilisateurs et manque d’implication des parties prenantes métiers.Absence de KPIs pour évaluer régulièrement les performances des applications.Mettre en œuvre des outils et pipelines CI/CD pour automatiser les tests et améliorer la qualité.Organiser des ateliers collaboratifs SI/métiers pour aligner besoins métiers et développements.Déployer un tableau de bord KPI pour mesurer les performances des applications et améliorer les livrables.Intégration Les progiciels sont intégrés efficacement aux systèmes existants pour assurer la continuité.Les utilisateurs finaux participent activement aux phases de test et validation.Un support technique est en place pour assurer la continuité des opérations.Processus d'évaluation des fournisseurs et documentation des solutions partiellement structurés.Tests d'intégration insuffisants, augmentant le risque d'erreurs en production.Performances des progiciels non surveillées régulièrement, limitant l’optimisation continue.Formaliser l'évaluation des fournisseurs et renforcer la documentation des solutions.Implémenter un processus rigoureux pour les tests d'intégration, avec ateliers de formation.Mettre en place des outils de suivi des performances et des KPIs pour optimiser les progiciels.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Résultats des questionnaires', 'left': 455946, 'top': 44624, 'width': 4536802, 'height': 288924}
+{'chart_type': 'text', 'text': " Développement et Intégration : Développement d'Applications et Intégration de Progiciels", 'left': 455946, 'top': 303731, 'width': 11002991, 'height': 432048}
+{'chart_type': 'text', 'text': 'Développement', 'left': -265851, 'top': 2387683, 'width': 1742830, 'height': 325917}
+{'chart_type': 'text', 'text': 'Processus de développement standardisé avec adoption d’outils modernes et pratiques efficaces.', 'left': 3549316, 'top': 1711572, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Documentation du code maintenue à jour pour une meilleure traçabilité et gestion des projets.', 'left': 3549316, 'top': 1711572, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Processus de maintenance défini pour assurer la pérennité des applications développées.', 'left': 3549316, 'top': 1711572, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Tests non automatisés, augmentant le risque d’erreurs et les délais de livraison.', 'left': 6210759, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Collaboration limitée avec les utilisateurs et manque d’implication des parties prenantes métiers.', 'left': 6210759, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Absence de KPIs pour évaluer régulièrement les performances des applications.', 'left': 6210759, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Mettre en œuvre des outils et pipelines CI/CD pour automatiser les tests et améliorer la qualité.', 'left': 8883299, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Organiser des ateliers collaboratifs SI/métiers pour aligner besoins métiers et développements.', 'left': 8883299, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Déployer un tableau de bord KPI pour mesurer les performances des applications et améliorer les livrables.', 'left': 8883299, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Intégration ', 'left': -265851, 'top': 4307174, 'width': 1742830, 'height': 325917}
+{'chart_type': 'text', 'text': 'Les progiciels sont intégrés efficacement aux systèmes existants pour assurer la continuité.', 'left': 3549316, 'top': 3631063, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Les utilisateurs finaux participent activement aux phases de test et validation.', 'left': 3549316, 'top': 3631063, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Un support technique est en place pour assurer la continuité des opérations.', 'left': 3549316, 'top': 3631063, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': "Processus d'évaluation des fournisseurs et documentation des solutions partiellement structurés.", 'left': 6210759, 'top': 3647814, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': "Tests d'intégration insuffisants, augmentant le risque d'erreurs en production.", 'left': 6210759, 'top': 3647814, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Performances des progiciels non surveillées régulièrement, limitant l’optimisation continue.', 'left': 6210759, 'top': 3647814, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': "Formaliser l'évaluation des fournisseurs et renforcer la documentation des solutions.", 'left': 8883299, 'top': 3647814, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': "Implémenter un processus rigoureux pour les tests d'intégration, avec ateliers de formation.", 'left': 8883299, 'top': 3647814, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Mettre en place des outils de suivi des performances et des KPIs pour optimiser les progiciels.', 'left': 8883299, 'top': 3647814, 'width': 2534063, 'height': 1742828}

@@ -1,0 +1,331 @@
+
+                Presentation Title : Présentation PowerPoint 
+                Presentation Author : philippe albrecht 
+                Subject :  
+                Keywords :  
+                Last Modified Date : Nidhal ERRACHID 
+                Created Date : 2021-10-20 10:11:09 
+                Modified Date : 2025-01-26 23:01:58
+                
+                          ------------------------------ SLIDE 1 ------------------------------ 
+
+
+                    Slide Number 2
+                    Slide Title : Sommaire
+                    Slide Text : SommaireCONTEXTE & OBJECTIFS DÉMARCHE DE L’INTERVENTIONSYNTHÈSE DES CONSTATSDIAGNOSTIC ET AXES DE RÉFLEXIONPOINTS CRITIQUES À INTÉGRER DANS LA ROADMAP
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 2 ------------------------------ 
+
+
+                    Slide Number 4
+                    Slide Title : Proposition basée sur notre expérience et le contexte de l’intervention
+                    Slide Text : Analyse des données collectées et évaluation 2. DÉMARCHE DE L’INTERVENTIONProposition basée sur notre expérience et le contexte de l’interventionCollecte d’informationRemplir les questionnaires d’audit Demander des informations complémentaires1Partager les constats avec l’équipe Identifier les pistes d’améliorationÉchange et réflexion3 Regrouper les constatsClasser les initiatives par prioritéSynthèse et recommandations4Analyser les données collectéesÉtablir les constats2
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 3 ------------------------------ 
+
+
+                    Slide Number 5
+                    Slide Title : Notre évaluation rapide de la maturité s’appuie sur des questionnaires d’audit et des questions Complémentaires 
+                    Slide Text : ITILGestion des Incidents | Gestion des Problèmes | Gestion des Changements2. DÉMARCHE DE L’INTERVENTION : Adaptation du model au contexte de cette Analyse rapide Notre évaluation rapide de la maturité s’appuie sur des questionnaires d’audit et des questions Complémentaires OpérationsExploitation | Gestion des Infrastructures | Implémentation du CloudCIO OFFICEProcessus du Pilotage budgétaire | Gestion de la demande | Pilotage des portefeuille projetsDéveloppement et d’IntégrationDéveloppement d'Applications | Intégration de ProgicielsArchitectureArchitecture d'Entreprise (TOGAF) | Architecture Applicative | Architecture Cloud | Architecture Data Gestion des fournisseursGestion des Fournisseurs | Software Asset Management (SAM) Innovation et ModernisationDette Technique | Modernité technologique | Gestion Innovation Data, IA et DigitalisationData | IA | DigitalisationDigital  WorkplaceDigital Workplace | Support de Proximité | Gestion des Flottes | Gestion des Postes de Travail  | Gestion du Réseau de Télécommunication En plus de l’analyse globale nous avons structuré ce diagnostic rapide autour de 10 axes stratégiques pour une analyse ciblée.Agilité de l’organisationAgilité | DEVSECOPS | Agilité à l'Échelle
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 4 ------------------------------ 
+
+
+                    Slide Number 7
+                    Slide Title : Un budget SI sous-doté sur ses fondamentaux (budget 25) 
+                    Slide Text : 3. SYNTHÈSE DES CONSTATS : Analyse budgétaireUn budget SI sous-doté sur ses fondamentaux (budget 25) CIO OfficeData et Analytics  Postes de travail Et Service supportSécurité informatique Applications Projets CapexInfrastructure et opération IT 5% - 10%30% - 40%12% -  20%5% - 10%5% - 10% 10% - 15%20% - 30%Benchmark répartition des coûts IT4.92%28.97%0%1.84%1.17%36.36%26.74%RépartitionPostes de dépense ITProjets Capex : Aligné avec le haut du benchmark. Veiller à la rentabilité des projets stratégiques.Applications : Surinvestissement majeur (>2x benchmark). Priorité à la rationalisation (audit, réduction des doublons, renégociation des licences).ObservationsLes dépenses en Infrastructure et opération IT sont proche du benchmark. Cela semble Maintenir robustesse et scalabilité.CIO Office : Allocation insuffisante, limitant la gouvernance et le pilotage stratégique. Revoir les ressources pour aligner IT et métiers.Data & Analytics  : Sous-investissement critique. Renforcer les outils analytiques et développer une stratégie data pour soutenir les priorités métiers.Postes de travail/support : Anomalie à corriger. Investir dans le support utilisateur pour améliorer productivité et adoption des outils.Sécurité : Légèrement bas, augmenter pour anticiper l’évolution des cybermenaces.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 5 ------------------------------ 
+
+
+                    Slide Number 8
+                    Slide Title : Une pyramide des âges déséquilibrée avec des risques de renouvellement des compétences
+                    Slide Text : SYNTHÈSE DES CONSTATS : pyramide des âges Une pyramide des âges déséquilibrée avec des risques de renouvellement des compétencesRépartition des effectifs interne de la DSI par tranches d’âgeSous-représentation des jeunes talents : Seulement 11% des effectifs sont âgés de 20-30 ans, contre 20-25% en moyenne dans le secteur.Concentration des effectifs expérimentés : 38% des ETP se situent dans la tranche 40-50 ans, représentant une force clé mais à équilibrer.Risque de perte de compétences : 29% des effectifs ont plus de 50 ans, nécessitant un plan de transfert des connaissances.Observations
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 6 ------------------------------ 
+
+
+                    Slide Number 9
+                    Slide Title : Un ratio externe/interne très bas limitant flexibilité et innovation 
+                    Slide Text : SYNTHÈSE DES CONSTATS : pyramide des âges Un ratio externe/interne très bas limitant flexibilité et innovation Répartition des effectifs interne de la DSI par tranches d’âgeLe ratio externe/interne est stable et équilibré pour une DSI classique, mais paraît bas dans un contexte de transformation numérique nécessitant des expertises spécifiques et temporaires.Un ratio légèrement plus élevé (environ 25%) favoriserait flexibilité, innovation et couverture des compétences manquantes.Avec ce ratio actuel, il est crucial d’accompagner la montée en compétences des équipes pour répondre aux enjeux technologiques.Observations
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                     
+ 
+Chart Type : COLUMN_CLUSTERED (51)
++---+-------------------+---------+---------+------------------------+
+|   | Type de ressource | Interne | Externe | Ratio Externe/Interne  |
++---+-------------------+---------+---------+------------------------+
+| 0 |       23/24       |    54   |   10.0  |  0.18518518518518517   |
+| 1 |       24/25       |    56   |   11.0  |  0.19642857142857142   |
+| 2 |        nan        |   980   |   23.5  |         0.024          |
++---+-------------------+---------+---------+------------------------+ 
+ 
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 7 ------------------------------ 
+
+
+                    Slide Number 10
+                    Slide Title : La DSI dispose d’importantes opportunités pour aligner sa maturité avec la taille d’Axereal.
+                    Slide Text : La DSI dispose d’importantes opportunités pour aligner sa maturité avec la taille d’Axereal.SYNTHÈSE DES CONSTATSSynthèse des évaluations sur la base des 4 entretiens réalisés
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                     
+ 
+Chart Type : BAR_CLUSTERED (57)
++----+-------------------------------+---------+
+|    |           Unnamed: 0          | Série 1 |
++----+-------------------------------+---------+
+| 0  |          CIO Office           |   4.5   |
+| 1  |              ITIL             |   5.0   |
+| 2  | Développement et Intégration  |   6.0   |
+| 3  |            Agility            |   5.0   |
+| 4  |           Opération           |   8.5   |
+| 5  |          Architecture         |   6.0   |
+| 6  |   Gestion des Fournisseurs    |   5.5   |
+| 7  |  modernisation et innovation  |   6.5   |
+| 8  | Postes de travail et flottes  |   6.0   |
+| 9  |      Data, IA et Digital      |   7.0   |
+| 10 |          Note globale         |   6.0   |
++----+-------------------------------+---------+ 
+ 
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 8 ------------------------------ 
+
+
+                    Slide Number 11
+                    Slide Title : CIO Office : Pilotage Budgétaire, Gestion de la Demande et Portefeuille Projets
+                    Slide Text : Résultats des questionnairesCIO Office : Pilotage Budgétaire, Gestion de la Demande et Portefeuille ProjetsBudgetGestion DemandePortefeuille Alignement stratégique du budget avec les priorités de l’entreprise.Processus en place pour le suivi des coûts et l’analyse des écarts.Distinction entre dépenses OPEX et CAPEX, renforçant la transparence.Processus partiellement défini pour collecter et tracer les demandes.Collaboration SI/métiers en place, bien que limitée et perfectible.Gestion centralisée des demandes amorcée.Alignement stratégique des projets avec les priorités de l’entreprise.Utilisation d’outils pour centraliser et piloter le portefeuille projets.Absence de tableaux de bord partagés avec les métiers pour piloter efficacement les investissements.Absence de réserve budgétaire pour couvrir les imprévus ou aléas.Absence de priorisation stratégique et de suivi des délais.Pas de processus d’escalade pour gérer les demandes critiques.Faible usage d’outils et absence de KPIs pour mesurer la performance.Absence de processus de sélection et d’évaluation des risques au niveau du portefeuille.Manque de gestion des KPIs de performance.Contribution du portefeuille à la création de valeur non évaluée.Mettre en place des tableaux de bord ( incluant les ROI) pour suivre et partager les indicateurs budgétaires.Intégrer une réserve budgétaire pour anticiper les imprévus et sécuriser les investissements.Mise en place d’outils PPM pour la gestion des demandes et formation des équipes SI.Ateliers collaboratifs SI/métiers pour optimiser les processus de gestion des demandesMettre en place un processus structuré de sélection des projets via des ateliers stratégiques.Élaborer des KPIs et implémenter une solution PPM pour mesurer la performance et la valeur.Formaliser la gestion des risques et interdépendances 
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 9 ------------------------------ 
+
+
+                    Slide Number 12
+                    Slide Title :  Itil : Gestion des Incidents, Gestion des Problèmes et Gestion des Changements
+                    Slide Text : Résultats des questionnaires Itil : Gestion des Incidents, Gestion des Problèmes et Gestion des ChangementsIncidentsProblèmesChangementsCommunication efficace sur la résolution des incidents.Processus documenté et priorisation partiellement.Suivi partiel des métriques d’incidents en cours.Les actions correctives sont mises en œuvre rapidement.Les causes racines des incidents sont partiellement analysées.Les parties prenantes reçoivent des informations correctives adaptées.Processus de gestion des changements défini et formalisé.Évaluation des impacts et suivi des résultats des changements.Outils adaptés et métriques suivies pour une gestion efficace.Absence de SPOC et outils pour la gestion centralisée.Non-respect des SLA, impactant la qualité de service.Pas de traitement des incidents critiques ou récurrents.Absence de processus formel pour gérer les problèmes récurrents.Pas d’outils adaptés ni de base de connaissances centralisée.Les problèmes critiques ne sont pas escaladés efficacement.Communication partielle avec les utilisateurs sur les changements planifiés. Risques en cas de mauvaise anticipation des tests ou de la communication.Mettre en place un SPOC et outils ITSM efficaces.Mettre en place une approche smart support / shift leftRenforcer le respect des SLA avec un suivi rigoureux.Définir un processus clair et une base de connaissances.Mettre en place des outils adaptés pour suivre les problèmes.Formaliser un processus d'escalade pour les problèmes critiques.Renforcer la communication proactive avec les utilisateurs.Améliorer la fiabilité des tests avant la mise en production.Standardiser les processus pour garantir la qualité des tests et des validations.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 10 ------------------------------ 
+
+
+                    Slide Number 13
+                    Slide Title :  Développement et Intégration : Développement d'Applications et Intégration de Progiciels
+                    Slide Text : Résultats des questionnaires Développement et Intégration : Développement d'Applications et Intégration de ProgicielsDéveloppementProcessus de développement standardisé avec adoption d’outils modernes et pratiques efficaces.Documentation du code maintenue à jour pour une meilleure traçabilité et gestion des projets.Processus de maintenance défini pour assurer la pérennité des applications développées.Tests non automatisés, augmentant le risque d’erreurs et les délais de livraison.Collaboration limitée avec les utilisateurs et manque d’implication des parties prenantes métiers.Absence de KPIs pour évaluer régulièrement les performances des applications.Mettre en œuvre des outils et pipelines CI/CD pour automatiser les tests et améliorer la qualité.Organiser des ateliers collaboratifs SI/métiers pour aligner besoins métiers et développements.Déployer un tableau de bord KPI pour mesurer les performances des applications et améliorer les livrables.Intégration Les progiciels sont intégrés efficacement aux systèmes existants pour assurer la continuité.Les utilisateurs finaux participent activement aux phases de test et validation.Un support technique est en place pour assurer la continuité des opérations.Processus d'évaluation des fournisseurs et documentation des solutions partiellement structurés.Tests d'intégration insuffisants, augmentant le risque d'erreurs en production.Performances des progiciels non surveillées régulièrement, limitant l’optimisation continue.Formaliser l'évaluation des fournisseurs et renforcer la documentation des solutions.Implémenter un processus rigoureux pour les tests d'intégration, avec ateliers de formation.Mettre en place des outils de suivi des performances et des KPIs pour optimiser les progiciels.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 11 ------------------------------ 
+
+
+                    Slide Number 14
+                    Slide Title :  Agility : Agilité, DEVSECOPS et Agilité à l'Échelle
+                    Slide Text : Résultats des questionnaires Agility : Agilité, DEVSECOPS et Agilité à l'ÉchelleAgilitéDEVSECOPSà l'ÉchelleAutonomie des équipes et priorisation efficace des backlogs.Suivi des métriques agiles, améliorant les performances.Utilisation d’outils collaboratifs optimisant le travail agile.Vulnérabilités détectées et corrigées rapidement.Politiques de sécurité mises à jour régulièrement.Plan de reprise IT après incident bien défini, assurant la résilience.Initiatives agiles alignées avec la stratégie globale de l’entreprise.Développement d’une orientation stratégique favorisant l’agilité à l’échelle.Collaboration métiers-IT limitée, impactant les itérations.Soutien limité de la direction pour l’agilité.Formation des équipes insuffisante sur les principes et pratiques agiles.Automatisation CI/CD et tests de sécurité intégrés inexistants.Collaboration Dev et Ops insuffisante, freinant l’efficacité.Monitoring partiel, limitant la prévention proactive des incidents.Absence de framework d’agilité à l’échelle structuré (SAFe, LeSS, etc.).Manque de coordination inter-équipes et de gestion des dépendances.Manque d’outils et d’indicateurs pour supporter l’agilité à l’échelle.Renforcer l’alignement métiers-IT via ateliers collaboratifs.Former équipes et direction sur les pratiques agiles.Standardiser cérémonies et feedbacks pour des itérations fluides.Automatiser pipelines CI/CD avec intégration des tests de sécurité.Renforcer collaboration Dev et Ops via méthodologies et ateliers.Déployer des outils avancés de monitoring pour améliorer la détection proactive.Mettre en place un framework d’agilité à l’échelle.Structurer la priorisation et coordonner les dépendances via des rituels multi-équipes adaptés.Déployer des outils et indicateurs pour soutenir l’agilité organisationnelle.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 12 ------------------------------ 
+
+
+                    Slide Number 15
+                    Slide Title :  Les Opérations : Exploitation, Infrastructures, Cloud
+                    Slide Text : Résultats des questionnaires Les Opérations : Exploitation, Infrastructures, CloudExploitationInfrastructuresCloudIntégration des outils DEVSECOPS dans la production.CMDB et gestion des changements opérationnels.Sauvegardes, PCA et mises à jour assurant la résilience.Infrastructures modernes et alignées sur les besoins métiers.Sécurité renforcée et solutions de redondance bien établies.Transition cloud déjà anticipée.Stratégie cloud bien définie et alignée avec les besoins métiers.Sécurité robuste et intégration fluide avec les systèmes existants.Flexibilité, scalabilité et outils de monitoring en place.SLA non respectés, impactant la crédibilité.Absence de monitoring, augmentant les risques.Satisfaction utilisateur insuffisante, révélant des lacunes.Coûts d’infrastructure partiellement maîtrisés, augmentant les risques budgétaires.Coûts cloud partiellement maîtrisés.Formation insuffisante des équipes aux technologies cloud.Dépendance possible aux fournisseurs sans suivi rigoureux.Mettre en place un tableau de bord pour les SLA.Déployer un monitoring en temps réel pour anticiper les incidents.Optimiser les coûts avec des tableaux de bord financiers.Déployer des outils d’analyse pour anticiper les besoins.Améliorer la gestion et le suivi des contrats fournisseurs.Optimiser les dépenses cloud avec des outils de gestion des coûts.Renforcer la formation des équipes sur les technologies cloud.Évaluer et diversifier les fournisseurs.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 13 ------------------------------ 
+
+
+                    Slide Number 16
+                    Slide Title :  Architecture : Architecture Applicative, Architecture Cloud, Architecture Data  
+                    Slide Text : Résultats des questionnaires Architecture : Architecture Applicative, Architecture Cloud, Architecture Data  ApplicativeCloudDataAlignement entre les exigences métiers et techniques, assurant la cohérence et pertinence.Suivi des indicateurs de performance de l’architecture.L’architecture applicative est alignée avec les besoins métiers.Stratégie Cloud clairement définie et alignée sur les priorités de l’entreprise.Flux fluides entre Cloud et on-premise.Plans de reprise après incident bien établis, garantissant la résilience.Les données sont exploitées efficacement pour des prises de décision stratégiques.Les équipes sont formées à l’utilisation et à la valorisation des données.Applications critiques non identifiées et sécurisées, exposant à des risques importants.Outils APM insuffisamment utilisés pour monitorer la performance.Rationalisation des coûts partiellement maîtrisés.Coûts Cloud partiellement maîtrisés, limitant l’optimisation.Manque de formation des équipes sur les concepts et outils Cloud.Applications migrées et projets Cloud partiellement optimisés et alignés sur les objectifs.Absence d’un modèle centralisé pour aligner les données.Protection des données critiques insuffisante.Absence de plan de continuité, limitant la résilience en cas d’incident.Identifier et sécuriser les applications critiques via des audits et une gouvernance renforcée.Déployer des outils d’APM pour améliorer le suivi.Lancer un chantier pour réduire les redondances et maîtriser les coûts.Former les équipes métiers sur les outils et concepts Cloud.Déployer des méthode et outils de FinOps pour maîtriser et optimiser les coûts.Optimiser les applications migrées et renforcer le pilotage des projets.Définir un modèle de données centralisé.Renforcer la protection des données critiques. Mettre en place un plan de continuité pour assurer la disponibilité des données sensibles.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 14 ------------------------------ 
+
+
+                    Slide Number 17
+                    Slide Title : Gestion des Fournisseurs : Gestion des Fournisseurs et Software Asset Management (SAM)
+                    Slide Text : Résultats des questionnairesGestion des Fournisseurs : Gestion des Fournisseurs et Software Asset Management (SAM)FournisseursRelations avec les fournisseurs stratégiques bien gérées, favorisant une collaboration efficace.Conformité des fournisseurs aux exigences de sécurité et réglementations en vigueur.Documentation partielle des relations, amorçant une meilleure traçabilité.Absence d’un processus formalisé pour la sélection et l’évaluation des fournisseurs.Faible suivi des KPIs et absence de plan de continuité pour les défaillances.Optimisation limitée des coûts et des SLA non totalement respectés.Mettre en place un processus structuré pour la sélection et l’évaluation des fournisseurs.Développer un tableau de bord avec des KPIs pour suivre performances et SLA.Élaborer un plan de continuité pour réduire les risques liés aux défaillances fournisseurs.SAMInventaire des logiciels et contrats de licences bien gérés, assurant un suivi rigoureux.Coûts des logiciels régulièrement évalués et optimisés pour un meilleur contrôle budgétaire.Outils SAM adoptés pour gérer efficacement les actifs logiciels et renouvellements.Absence de formation des équipes aux bonnes pratiques SAM, limitant leur efficacité.Suivi des métriques SAM inexistant, réduisant la visibilité sur la performance globale.Audits partiels et gestion limitée des logiciels inutilisés, augmentant les gaspillages..Mettre en place un tableau de bord pour suivre les métriques clés SAM.Renforcer les audits internes et supprimer les logiciels inutilisés pour réduire les coûts.Former les équipes aux bonnes pratiques SAM pour améliorer la gestion des licences.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 15 ------------------------------ 
+
+
+                    Slide Number 18
+                    Slide Title : modernisation et innovation : Dette Technique, Modernité technologique et Gestion Innovation
+                    Slide Text : Résultats des questionnairesmodernisation et innovation : Dette Technique, Modernité technologique et Gestion InnovationDetteModernitéInnovationDécisions techniques tenant compte de l’impact sur la dette future.Collaboration entre métiers et techniques amorcée pour gérer la dette technique.Veille technologique et évaluation  des opportunités.Alignement des choix techno avec la stratégie d’entreprise.Projets pilotes et KPIs en place pour valider et mesurer l’adoption des nouvelles technologies.Conditions favorables pour collecter les idées innovantes.Partenariats établis pour soutenir les initiatives d’innovation.Innovation alignée sur les objectifs stratégiques et soutenue activement par la direction.Absence d’inventaire clair pour documenter la dette technique.Outils et métriques insuffisants pour suivre la dette technique.Efforts de réduction partiellement budgétés, limitant les actions correctives.Mises à jour des systèmes partiellement intégrées pour rester technologiquement à jour.Gestion des projets technologiques partiellement conforme aux délais et budgets.Absence d’une stratégie claire et d’un budget dédié pour l’encadrer.Faible capacité à industrialiser les innovations, limitant leur impact.Mesure partielle des résultats des initiatives, réduisant la visibilité sur leur valeur ajoutée.Créer un inventaire de la dette technique.Mettre en place des outils et KPIs pour suivre la dette technique.Prioriser et budgéter les efforts de réduction en lien avec les risques et stratégies.Investir même avec modération dans des formations ciblées.Accélérer les mises à jour des systèmes.Améliorer la gouvernance des projets pour respecter les délais et les budgets.Définir une stratégie et allouer un budget pour optimiser l’effort.Structurer un processus pour industrialiser et déployer rapidement les solutions.Renforcer le suivi grâce à des KPIs mesurant leur impact.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 16 ------------------------------ 
+
+
+                    Slide Number 19
+                    Slide Title : Postes de travail et flottes : Digital Workplace, Support de Proximité, Gestion des Flottes, Gestion des Postes de Travail et Réseau de Télécom
+                    Slide Text : Résultats des questionnairesPostes de travail et flottes : Digital Workplace, Support de Proximité, Gestion des Flottes, Gestion des Postes de Travail et Réseau de TélécomDigitalEnvironnements accessible et équipements à jours .Support technique réactif et DSI proactive.Manque de suivi des indicateurs de satisfaction des utilisateurs.Manque de personnalisation des environnements digitaux.Instaurer des indicateurs de satisfaction des utilisateurs.Optimiser les environnements afin de s’ajuster aux besoins métiers.Support de ProximitéRéactivité et assistance répondant aux besoins utilisateursRésolution rapide des problèmes.Non maitrise des SLA, nécessitant des améliorations.Collaboration limitée entre équipes locales et IT centrales.Mettre en place un tableau de bord pour les SLA.Renforcer les synergies entre équipes locales et centrales IT.Gestion des FlottesSécurité et support efficaces pour les équipements mobiles.Mise en place de solutions MDM pour la gestion des flottes.BYOD absente, créant des risques pour l’intégration des appareils.Inventaire incomplet des équipements, limitant le contrôle.Définir et déployer une politique BYOD pour sécuriser les appareils.Optimiser l’inventaire des équipements via des outils de suivi.Postes de TravailSécurité renforcée des postes contre les cybermenaces.Renouvellement des Postes évitant les défaillances impactantees.Absence de suivi des performances, limitant leur optimisation.Les incidents liés aux postes ne sont pas correctement gérés.Monitorer les performances via des outils adaptés.Créer un système de gestion d’incidents centralisé.Réseaude TélécomMise en place d’une sécurisation renforcée des accès réseau.Gestion proactive minimisant les temps d’arrêt et interruptions.Absence d’audits réguliers pour garantir la performance du réseau.Outils de monitoring réseau inefficaces, limitant l’optimisation.Déployer un système d’audit régulier.Introduire des solutions avancées pour surveiller le réseau.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 17 ------------------------------ 
+
+
+                    Slide Number 21
+                    Slide Title : Points Critiques globaux et initiatives à lancer au plus tôt
+                    Slide Text : Points Critiques à Intégrer dans la RoadmapPoints Critiques globaux et initiatives à lancer au plus tôt          Processus et OutillageAbsence de standards unifiés et d’outils ITSM : Manque de standardisation et d’outils intégrés pour le suivi des incidents, des SLA, et du support entraînant des inefficacités dans la gestion et la priorisation des actions.Manque de tableaux de bord analytiques et de KPIs : Absence de KPIs pertinents et de tableaux de bord intelligents pour piloter efficacement la digitalisation, les infrastructures, et les processus réseau.Absence d’identification et de surveillance des processus critiques : Faible identification des processus critiques, manque d’implication des métiers dans ce processus et absence d’outils de surveillance et/ou de prédiction avancés.        Technologie et ModernisationDonnées non centralisées et sous-exploitées : Les référentiels de données restent fragmentés, et la qualité des jeux de données est insuffisante, limitant leur exploitation stratégique pour des cas d’usage métiers ou IA.Infrastructures sous-optimisées : Absence de solutions modernes pour le monitoring réseau et gestion limitée des flottes mobiles. Le manque de maitrise des solutions VDI réduit la flexibilité, l’efficacité opérationnelle et la continuité des activités.Migration Cloud et IA sous-exploitées : Incapacité à industrialiser les projets IA et manque d’optimisation des coûts liés au Cloud, ralentissant la transformation digitale et la compétitivité.       Gouvernance et OrganisationAbsence de feuilles de route stratégiques complète : Les stratégies IA, digitalisation, gouvernance des données et réduction de la dette technique ne sont pas clairement définies.Manque de gouvernance transversale : Coordination insuffisante pour synchroniser projets et ressources via des programmes ou d’une structure de transformation dédiée.Manque de KPI et de tableaux de bord : Manque avéré d’indicateurs fiables pour le suivi de la performance et de la qualité dans tous les domaines.Services support et outils unifiés : Mettre en place un référentiel unique incidents/SLA/support via outils ITSM et mettre à niveau les services support.Tableaux de bord et monitoring avancés : Créer des KPIs stratégiques, tableaux analytiques et outils prédictifs pour surveiller les processus critiques.Centralisation et nettoyage des données : Créer un référentiel unique, améliorer la qualité des données  stratégique.Modernisation et Cloud : Adopter solutions modernes pour le monitoring réseau, projets IA industrialisés et optimiser les coûts Cloud.Élaboration de feuilles de route stratégiques : Définition de stratégies intégrées couvrant IA, digitalisation, gouvernance des données et réduction de la dette technique. Gouvernance et pilotage renforcés : Mettre en place une structure de transformation dédiée, intégrant KPI et tableaux de bord pour synchroniser projets et ressources.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 18 ------------------------------ 
+
+
+                    Slide Number 22
+                    Slide Title : Points Critiques Spécifiques à Intégrer dans la Roadmap en urgence
+                    Slide Text : Points Critiques à Intégrer dans la RoadmapPoints Critiques Spécifiques à Intégrer dans la Roadmap en urgence
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 19 ------------------------------ 
+
+
+                    Slide Number 23
+                    Slide Title : 
+                    Slide Text : annexe
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 20 ------------------------------ 
+
+
+                    Slide Number 24
+                    Slide Title : Les fichiers de données du diagnostic flash 
+                    Slide Text : annexeLes fichiers de données du diagnostic flash 
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+                  ------------------------------ SLIDE 21 ------------------------------ 
+
+
+                    Slide Number 25
+                    Slide Title : 
+                    Slide Text : 
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+

@@ -1,0 +1,44 @@
+
+                    Slide Number 18
+                    Slide Title : modernisation et innovation : Dette Technique, Modernité technologique et Gestion Innovation
+                    Slide Text : Résultats des questionnairesmodernisation et innovation : Dette Technique, Modernité technologique et Gestion InnovationDetteModernitéInnovationDécisions techniques tenant compte de l’impact sur la dette future.Collaboration entre métiers et techniques amorcée pour gérer la dette technique.Veille technologique et évaluation  des opportunités.Alignement des choix techno avec la stratégie d’entreprise.Projets pilotes et KPIs en place pour valider et mesurer l’adoption des nouvelles technologies.Conditions favorables pour collecter les idées innovantes.Partenariats établis pour soutenir les initiatives d’innovation.Innovation alignée sur les objectifs stratégiques et soutenue activement par la direction.Absence d’inventaire clair pour documenter la dette technique.Outils et métriques insuffisants pour suivre la dette technique.Efforts de réduction partiellement budgétés, limitant les actions correctives.Mises à jour des systèmes partiellement intégrées pour rester technologiquement à jour.Gestion des projets technologiques partiellement conforme aux délais et budgets.Absence d’une stratégie claire et d’un budget dédié pour l’encadrer.Faible capacité à industrialiser les innovations, limitant leur impact.Mesure partielle des résultats des initiatives, réduisant la visibilité sur leur valeur ajoutée.Créer un inventaire de la dette technique.Mettre en place des outils et KPIs pour suivre la dette technique.Prioriser et budgéter les efforts de réduction en lien avec les risques et stratégies.Investir même avec modération dans des formations ciblées.Accélérer les mises à jour des systèmes.Améliorer la gouvernance des projets pour respecter les délais et les budgets.Définir une stratégie et allouer un budget pour optimiser l’effort.Structurer un processus pour industrialiser et déployer rapidement les solutions.Renforcer le suivi grâce à des KPIs mesurant leur impact.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Résultats des questionnaires', 'left': 455946, 'top': 44624, 'width': 4536802, 'height': 288924}
+{'chart_type': 'text', 'text': 'modernisation et innovation : Dette Technique, Modernité technologique et Gestion Innovation', 'left': 455946, 'top': 303731, 'width': 11002991, 'height': 432048}
+{'chart_type': 'text', 'text': 'Dette', 'left': -9364, 'top': 1907674, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Modernité', 'left': -9364, 'top': 3281845, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Innovation', 'left': -9364, 'top': 4693227, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Décisions techniques tenant compte de l’impact sur la dette future.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Collaboration entre métiers et techniques amorcée pour gérer la dette technique.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Veille technologique et évaluation  des opportunités.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Alignement des choix techno avec la stratégie d’entreprise.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Projets pilotes et KPIs en place pour valider et mesurer l’adoption des nouvelles technologies.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Conditions favorable', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 's ', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'pour collecter les idées innovantes.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Partenariats établis pour soutenir les initiatives d’innovation.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Innovation alignée sur les objectifs stratégiques et soutenue activement par la direction.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Absence d’inventaire clair pour documenter la dette technique.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Outils et métriques insuffisants pour suivre la dette technique.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Efforts de réduction partiellement budgétés, limitant les actions correctives.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Mises à jour des systèmes partiellement intégrées pour rester technologiquement à jour.', 'left': 6210759, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Gestion des projets technologiques partiellement conforme aux délais et budgets.', 'left': 6210759, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Absence d’une stratégie claire et d’un budget dédié pour l’encadrer.', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Faible capacité à industrialiser les innovations, limitant leur impact.', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Mesure partielle des résultats des initiatives, réduisant la visibilité sur leur valeur ajoutée.', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Créer un inventaire de la dette technique.', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Mettre en place des outils et KPIs pour suivre la dette technique.', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Prioriser et budgéter les efforts de réduction en lien avec les risques et stratégies.', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Investir même avec modération dans des formations ciblées.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Accélérer les mises à jour des systèmes.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Améliorer la gouvernance des projets pour respecter les délais et les budgets.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Définir une stratégie et allouer un budget pour optimiser l’effort.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Structurer un processus pour industrialiser et déployer rapidement les solutions.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Renforcer le suivi grâce à des KPIs mesurant leur impact.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1229853}

@@ -1,0 +1,32 @@
+
+                    Slide Number 4
+                    Slide Title : Proposition basée sur notre expérience et le contexte de l’intervention
+                    Slide Text : Analyse des données collectées et évaluation 2. DÉMARCHE DE L’INTERVENTIONProposition basée sur notre expérience et le contexte de l’interventionCollecte d’informationRemplir les questionnaires d’audit Demander des informations complémentaires1Partager les constats avec l’équipe Identifier les pistes d’améliorationÉchange et réflexion3 Regrouper les constatsClasser les initiatives par prioritéSynthèse et recommandations4Analyser les données collectéesÉtablir les constats2
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Analyse des données collectées et évaluation ', 'left': 3928535, 'top': 1616660, 'width': 2131326, 'height': 2052157}
+{'chart_type': 'text', 'text': '2. DÉMARCHE DE L’INTERVENTION', 'left': 455946, 'top': 44624, 'width': 6372000, 'height': 288924}
+{'chart_type': 'text', 'text': 'Proposition basée sur notre expérience et le contexte de l’intervention', 'left': 455945, 'top': 303731, 'width': 11304000, 'height': 432048}
+{'chart_type': 'text', 'text': 'Collecte d’information', 'left': 1726516, 'top': 1616660, 'width': 2131326, 'height': 2052157}
+{'chart_type': 'text', 'text': 'Remplir les questionnaires d’audit ', 'left': 1726517, 'top': 3959739, 'width': 2131326, 'height': 1741615}
+{'chart_type': 'text', 'text': 'D', 'left': 1726517, 'top': 3959739, 'width': 2131326, 'height': 1741615}
+{'chart_type': 'text', 'text': 'emander des informations complémentaires', 'left': 1726517, 'top': 3959739, 'width': 2131326, 'height': 1741615}
+{'chart_type': 'text', 'text': '1', 'left': 2611910, 'top': 1282569, 'width': 352414, 'height': 432000}
+{'chart_type': 'text', 'text': 'Partager les constats avec l’équipe ', 'left': 6130553, 'top': 3959739, 'width': 2131326, 'height': 1741615}
+{'chart_type': 'text', 'text': 'Identifier les pistes d’amélioration', 'left': 6130553, 'top': 3959739, 'width': 2131326, 'height': 1741615}
+{'chart_type': 'text', 'text': 'Échange et réflexion', 'left': 6130553, 'top': 1616660, 'width': 2131326, 'height': 2052157}
+{'chart_type': 'text', 'text': '3', 'left': 7015946, 'top': 1282569, 'width': 352414, 'height': 432000}
+{'chart_type': 'text', 'text': ' Regrouper les constats', 'left': 8332571, 'top': 3959739, 'width': 2131326, 'height': 1741615}
+{'chart_type': 'text', 'text': 'C', 'left': 8332571, 'top': 3959739, 'width': 2131326, 'height': 1741615}
+{'chart_type': 'text', 'text': 'lasser les initiatives par priorité', 'left': 8332571, 'top': 3959739, 'width': 2131326, 'height': 1741615}
+{'chart_type': 'text', 'text': 'Synthèse et recommandations', 'left': 8332571, 'top': 1616660, 'width': 2131326, 'height': 2052157}
+{'chart_type': 'text', 'text': '4', 'left': 9217964, 'top': 1282569, 'width': 352414, 'height': 432000}
+{'chart_type': 'text', 'text': 'Analyser les données collectées', 'left': 3926885, 'top': 3959739, 'width': 2131326, 'height': 1741615}
+{'chart_type': 'text', 'text': 'Établir les constats', 'left': 3926885, 'top': 3959739, 'width': 2131326, 'height': 1741615}
+{'chart_type': 'text', 'text': '2', 'left': 4812278, 'top': 1282569, 'width': 352414, 'height': 432000}

@@ -1,0 +1,36 @@
+
+                    Slide Number 10
+                    Slide Title : La DSI dispose d’importantes opportunités pour aligner sa maturité avec la taille d’Axereal.
+                    Slide Text : La DSI dispose d’importantes opportunités pour aligner sa maturité avec la taille d’Axereal.SYNTHÈSE DES CONSTATSSynthèse des évaluations sur la base des 4 entretiens réalisés
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                     
+ 
+Chart Type : BAR_CLUSTERED (57)
++----+-------------------------------+---------+
+|    |           Unnamed: 0          | Série 1 |
++----+-------------------------------+---------+
+| 0  |          CIO Office           |   4.5   |
+| 1  |              ITIL             |   5.0   |
+| 2  | Développement et Intégration  |   6.0   |
+| 3  |            Agility            |   5.0   |
+| 4  |           Opération           |   8.5   |
+| 5  |          Architecture         |   6.0   |
+| 6  |   Gestion des Fournisseurs    |   5.5   |
+| 7  |  modernisation et innovation  |   6.5   |
+| 8  | Postes de travail et flottes  |   6.0   |
+| 9  |      Data, IA et Digital      |   7.0   |
+| 10 |          Note globale         |   6.0   |
++----+-------------------------------+---------+ 
+ 
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'La DSI dispose d’importantes opportunités pour aligner sa maturité avec la taille d’', 'left': 444421, 'top': 320080, 'width': 11540750, 'height': 432048}
+{'chart_type': 'text', 'text': 'Axereal', 'left': 444421, 'top': 320080, 'width': 11540750, 'height': 432048}
+{'chart_type': 'text', 'text': '.', 'left': 444421, 'top': 320080, 'width': 11540750, 'height': 432048}
+{'chart_type': 'text', 'text': 'SYNTHÈSE DES CONSTATS', 'left': 455946, 'top': 44624, 'width': 4536802, 'height': 288924}
+{'chart_type': 'chart', 'text': '\nChart Type : BAR_CLUSTERED (57)\n+----+-------------------------------+---------+\n|    |           Unnamed: 0          | Série 1 |\n+----+-------------------------------+---------+\n| 0  |          CIO Office           |   4.5   |\n| 1  |              ITIL             |   5.0   |\n| 2  | Développement et Intégration  |   6.0   |\n| 3  |            Agility            |   5.0   |\n| 4  |           Opération           |   8.5   |\n| 5  |          Architecture         |   6.0   |\n| 6  |   Gestion des Fournisseurs    |   5.5   |\n| 7  |  modernisation et innovation  |   6.5   |\n| 8  | Postes de travail et flottes  |   6.0   |\n| 9  |      Data, IA et Digital      |   7.0   |\n| 10 |          Note globale         |   6.0   |\n+----+-------------------------------+---------+', 'left': 444421, 'top': 1563421, 'width': 7273550, 'height': 4722838}
+{'chart_type': 'text', 'text': 'Synthèse des évaluations sur la base des 4 entretiens réalisés', 'left': 444421, 'top': 994888, 'width': 7273550, 'height': 572656}

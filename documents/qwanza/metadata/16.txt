@@ -1,0 +1,48 @@
+
+                    Slide Number 16
+                    Slide Title :  Architecture : Architecture Applicative, Architecture Cloud, Architecture Data  
+                    Slide Text : Résultats des questionnaires Architecture : Architecture Applicative, Architecture Cloud, Architecture Data  ApplicativeCloudDataAlignement entre les exigences métiers et techniques, assurant la cohérence et pertinence.Suivi des indicateurs de performance de l’architecture.L’architecture applicative est alignée avec les besoins métiers.Stratégie Cloud clairement définie et alignée sur les priorités de l’entreprise.Flux fluides entre Cloud et on-premise.Plans de reprise après incident bien établis, garantissant la résilience.Les données sont exploitées efficacement pour des prises de décision stratégiques.Les équipes sont formées à l’utilisation et à la valorisation des données.Applications critiques non identifiées et sécurisées, exposant à des risques importants.Outils APM insuffisamment utilisés pour monitorer la performance.Rationalisation des coûts partiellement maîtrisés.Coûts Cloud partiellement maîtrisés, limitant l’optimisation.Manque de formation des équipes sur les concepts et outils Cloud.Applications migrées et projets Cloud partiellement optimisés et alignés sur les objectifs.Absence d’un modèle centralisé pour aligner les données.Protection des données critiques insuffisante.Absence de plan de continuité, limitant la résilience en cas d’incident.Identifier et sécuriser les applications critiques via des audits et une gouvernance renforcée.Déployer des outils d’APM pour améliorer le suivi.Lancer un chantier pour réduire les redondances et maîtriser les coûts.Former les équipes métiers sur les outils et concepts Cloud.Déployer des méthode et outils de FinOps pour maîtriser et optimiser les coûts.Optimiser les applications migrées et renforcer le pilotage des projets.Définir un modèle de données centralisé.Renforcer la protection des données critiques. Mettre en place un plan de continuité pour assurer la disponibilité des données sensibles.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Résultats des questionnaires', 'left': 455946, 'top': 44624, 'width': 4536802, 'height': 288924}
+{'chart_type': 'text', 'text': ' Architecture : Architecture Applicative, Architecture Cloud, Architecture Data  ', 'left': 455946, 'top': 303731, 'width': 11002991, 'height': 432048}
+{'chart_type': 'text', 'text': 'Applicative', 'left': -9364, 'top': 1907674, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Cloud', 'left': -9364, 'top': 3281845, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Data', 'left': -9364, 'top': 4693227, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Alignement entre les exigences métiers et techniques, assurant la cohérence et pertinence.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Suivi des indicateurs de performance de l’architecture.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'L’architecture applicative est alignée avec les besoins métiers.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Stratégie Cloud clairement définie et alignée sur les priorités de l’entreprise.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Flux fluides entre Cloud et on-', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'premise', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': '.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Plans de reprise après incident bien établis, garantissant la résilience.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Les données sont exploitées efficacement pour des prises de décision stratégiques.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Les équipes sont formées à l’utilisation et à la valorisation des données.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Applications critiques non identifiées et sécurisées, exposant à des risques importants.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Outils APM insuffisamment utilisés pour monitorer la performance.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Rationalisation des coûts partiellement maîtrisés.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Coûts Cloud partiellement maîtrisés, limitant l’optimisation.', 'left': 6210759, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Manque de formation des équipes sur les concepts et outils Cloud.', 'left': 6210759, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Applications migrées et projets Cloud partiellement optimisés et alignés sur les objectifs.', 'left': 6210759, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Absence d’un modèle centralisé pour aligner les données.', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Protection des données critiques insuffisante.', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Absence de plan de continuité, limitant la résilience en cas d’incident.', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Identifier et sécuriser les applications critiques via des audits et une gouvernance renforcée.', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Déployer des outils d’APM pour améliorer le suivi.', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Lancer un chantier pour réduire les redondances et maîtriser les coûts.', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Former ', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'les équipes métiers sur les outils et concepts Cloud.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Déployer des méthode et outils de ', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'FinOps', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': ' pour maîtriser et optimiser les coûts.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Optimiser les applications migrées et renforcer le pilotage des projets.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Définir un modèle de données centralisé.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Renforcer la protection des données critiques. ', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Mettre en place un plan de continuité pour assurer la disponibilité des données sensibles.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1229853}

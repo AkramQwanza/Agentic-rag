@@ -1,0 +1,30 @@
+
+                    Slide Number 9
+                    Slide Title : Un ratio externe/interne très bas limitant flexibilité et innovation 
+                    Slide Text : SYNTHÈSE DES CONSTATS : pyramide des âges Un ratio externe/interne très bas limitant flexibilité et innovation Répartition des effectifs interne de la DSI par tranches d’âgeLe ratio externe/interne est stable et équilibré pour une DSI classique, mais paraît bas dans un contexte de transformation numérique nécessitant des expertises spécifiques et temporaires.Un ratio légèrement plus élevé (environ 25%) favoriserait flexibilité, innovation et couverture des compétences manquantes.Avec ce ratio actuel, il est crucial d’accompagner la montée en compétences des équipes pour répondre aux enjeux technologiques.Observations
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                     
+ 
+Chart Type : COLUMN_CLUSTERED (51)
++---+-------------------+---------+---------+------------------------+
+|   | Type de ressource | Interne | Externe | Ratio Externe/Interne  |
++---+-------------------+---------+---------+------------------------+
+| 0 |       23/24       |    54   |   10.0  |  0.18518518518518517   |
+| 1 |       24/25       |    56   |   11.0  |  0.19642857142857142   |
+| 2 |        nan        |   980   |   23.5  |         0.024          |
++---+-------------------+---------+---------+------------------------+ 
+ 
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'SYNTHÈSE DES CONSTATS : pyramide des âges ', 'left': 455946, 'top': 44624, 'width': 6372000, 'height': 288924}
+{'chart_type': 'text', 'text': 'Un ratio externe/interne très bas limitant flexibilité et innovation ', 'left': 455945, 'top': 303731, 'width': 11304000, 'height': 432048}
+{'chart_type': 'text', 'text': 'Répartition des effectifs interne de la DSI par tranches d’âge', 'left': 814380, 'top': 1077522, 'width': 5084883, 'height': 630213}
+{'chart_type': 'text', 'text': 'Le ratio externe/interne est stable et équilibré pour une DSI classique, mais paraît bas dans un contexte de transformation numérique nécessitant des expertises spécifiques et temporaires.', 'left': 6291149, 'top': 1699184, 'width': 5084884, 'height': 4410037}
+{'chart_type': 'text', 'text': 'Un ratio légèrement plus élevé (environ 25%) favoriserait flexibilité, innovation et couverture des compétences manquantes.', 'left': 6291149, 'top': 1699184, 'width': 5084884, 'height': 4410037}
+{'chart_type': 'text', 'text': 'Avec ce ratio actuel, il est crucial d’accompagner la montée en compétences des équipes pour répondre aux enjeux technologiques.', 'left': 6291149, 'top': 1699184, 'width': 5084884, 'height': 4410037}
+{'chart_type': 'text', 'text': 'Observations', 'left': 6291148, 'top': 1077522, 'width': 5084884, 'height': 630213}
+{'chart_type': 'chart', 'text': '\nChart Type : COLUMN_CLUSTERED (51)\n+---+-------------------+---------+---------+------------------------+\n|   | Type de ressource | Interne | Externe | Ratio Externe/Interne  |\n+---+-------------------+---------+---------+------------------------+\n| 0 |       23/24       |    54   |   10.0  |  0.18518518518518517   |\n| 1 |       24/25       |    56   |   11.0  |  0.19642857142857142   |\n| 2 |        nan        |   980   |   23.5  |         0.024          |\n+---+-------------------+---------+---------+------------------------+', 'left': 814379, 'top': 2307805, 'width': 5084884, 'height': 3693612}

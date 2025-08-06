@@ -1,0 +1,48 @@
+
+                    Slide Number 7
+                    Slide Title : Un budget SI sous-doté sur ses fondamentaux (budget 25) 
+                    Slide Text : 3. SYNTHÈSE DES CONSTATS : Analyse budgétaireUn budget SI sous-doté sur ses fondamentaux (budget 25) CIO OfficeData et Analytics  Postes de travail Et Service supportSécurité informatique Applications Projets CapexInfrastructure et opération IT 5% - 10%30% - 40%12% -  20%5% - 10%5% - 10% 10% - 15%20% - 30%Benchmark répartition des coûts IT4.92%28.97%0%1.84%1.17%36.36%26.74%RépartitionPostes de dépense ITProjets Capex : Aligné avec le haut du benchmark. Veiller à la rentabilité des projets stratégiques.Applications : Surinvestissement majeur (>2x benchmark). Priorité à la rationalisation (audit, réduction des doublons, renégociation des licences).ObservationsLes dépenses en Infrastructure et opération IT sont proche du benchmark. Cela semble Maintenir robustesse et scalabilité.CIO Office : Allocation insuffisante, limitant la gouvernance et le pilotage stratégique. Revoir les ressources pour aligner IT et métiers.Data & Analytics  : Sous-investissement critique. Renforcer les outils analytiques et développer une stratégie data pour soutenir les priorités métiers.Postes de travail/support : Anomalie à corriger. Investir dans le support utilisateur pour améliorer productivité et adoption des outils.Sécurité : Légèrement bas, augmenter pour anticiper l’évolution des cybermenaces.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': '3. ', 'left': 455946, 'top': 44624, 'width': 6372000, 'height': 288924}
+{'chart_type': 'text', 'text': 'SYNTHÈSE DES CONSTATS : ', 'left': 455946, 'top': 44624, 'width': 6372000, 'height': 288924}
+{'chart_type': 'text', 'text': 'Analyse budgétaire', 'left': 455946, 'top': 44624, 'width': 6372000, 'height': 288924}
+{'chart_type': 'text', 'text': 'Un budget SI sous-doté sur ses fondamentaux (budget 25) ', 'left': 455945, 'top': 303731, 'width': 11304000, 'height': 432048}
+{'chart_type': 'text', 'text': 'CIO Office', 'left': 803220, 'top': 3629269, 'width': 2034358, 'height': 378976}
+{'chart_type': 'text', 'text': 'Data et Analytics \xa0', 'left': 803220, 'top': 4220211, 'width': 2034358, 'height': 378976}
+{'chart_type': 'text', 'text': 'Postes de travail Et Service support', 'left': 803220, 'top': 4811153, 'width': 2034358, 'height': 378977}
+{'chart_type': 'text', 'text': 'Sécurité\xa0informatique\xa0', 'left': 803220, 'top': 5402096, 'width': 2034358, 'height': 378978}
+{'chart_type': 'text', 'text': 'Applications\xa0', 'left': 803220, 'top': 3038327, 'width': 2034358, 'height': 378976}
+{'chart_type': 'text', 'text': 'Projets Capex', 'left': 803220, 'top': 2447384, 'width': 2034358, 'height': 378977}
+{'chart_type': 'text', 'text': 'Infrastructure et opération IT\xa0', 'left': 797742, 'top': 1853930, 'width': 2034358, 'height': 381488}
+{'chart_type': 'text', 'text': '5% - 10%', 'left': 3381885, 'top': 5492978, 'width': 1017224, 'height': 194707}
+{'chart_type': 'text', 'text': '30% - 40%', 'left': 3381885, 'top': 1947319, 'width': 1017224, 'height': 194710}
+{'chart_type': 'text', 'text': '12% -\xa0 20%', 'left': 3381885, 'top': 4908879, 'width': 1017224, 'height': 194707}
+{'chart_type': 'text', 'text': '5% - 10%', 'left': 3381885, 'top': 4318625, 'width': 1017224, 'height': 194707}
+{'chart_type': 'text', 'text': '5% - 10%', 'left': 3381885, 'top': 3724032, 'width': 1017224, 'height': 194709}
+{'chart_type': 'text', 'text': '\xa010% -\xa015%', 'left': 3381885, 'top': 3128064, 'width': 1017224, 'height': 194709}
+{'chart_type': 'text', 'text': '20% - 30%', 'left': 3381885, 'top': 2542254, 'width': 1017224, 'height': 194710}
+{'chart_type': 'text', 'text': 'Benchmark répartition des coûts IT', 'left': 3217788, 'top': 1247005, 'width': 1345420, 'height': 473101}
+{'chart_type': 'text', 'text': '4.92%', 'left': 5303231, 'top': 5492978, 'width': 1017224, 'height': 194703}
+{'chart_type': 'text', 'text': '28.97%', 'left': 5303231, 'top': 1947319, 'width': 1017224, 'height': 194710}
+{'chart_type': 'text', 'text': '0%', 'left': 5303231, 'top': 4908879, 'width': 1017224, 'height': 194705}
+{'chart_type': 'text', 'text': '1.84%', 'left': 5303231, 'top': 4318625, 'width': 1017224, 'height': 194707}
+{'chart_type': 'text', 'text': '1.17%', 'left': 5303231, 'top': 3724032, 'width': 1017224, 'height': 194708}
+{'chart_type': 'text', 'text': '36.36%', 'left': 5303231, 'top': 3128064, 'width': 1017224, 'height': 194710}
+{'chart_type': 'text', 'text': '26.74%', 'left': 5303231, 'top': 2542253, 'width': 1017224, 'height': 194711}
+{'chart_type': 'text', 'text': 'Répartition', 'left': 5139134, 'top': 1247005, 'width': 1345420, 'height': 473101}
+{'chart_type': 'text', 'text': 'Postes de dépense\xa0IT', 'left': 550863, 'top': 1243013, 'width': 2281237, 'height': 422464}
+{'chart_type': 'text', 'text': 'Projets Capex : Aligné avec le haut du benchmark. Veiller à la rentabilité des projets stratégiques.', 'left': 7009035, 'top': 1950065, 'width': 4642910, 'height': 506182}
+{'chart_type': 'text', 'text': 'Applications : Surinvestissement majeur (>2x benchmark). Priorité à la rationalisation (audit, réduction des doublons, renégociation des licences).', 'left': 7009035, 'top': 2530982, 'width': 4642910, 'height': 639392}
+{'chart_type': 'text', 'text': 'Observations', 'left': 6995226, 'top': 1093807, 'width': 4642910, 'height': 285490}
+{'chart_type': 'text', 'text': 'Les dépenses en Infrastructure et opération IT\xa0sont proche du benchmark. Cela semble Maintenir robustesse et scalabilité.', 'left': 6995226, 'top': 1453786, 'width': 4642910, 'height': 421544}
+{'chart_type': 'text', 'text': 'CIO Office : Allocation insuffisante, limitant la gouvernance et le pilotage stratégique. Revoir les ressources pour aligner IT et métiers.', 'left': 7009035, 'top': 3242016, 'width': 4642910, 'height': 639392}
+{'chart_type': 'text', 'text': 'Data & Analytics  : Sous-investissement critique. Renforcer les outils analytiques et développer une stratégie data pour soutenir les priorités métiers.', 'left': 7009035, 'top': 3953050, 'width': 4642910, 'height': 639392}
+{'chart_type': 'text', 'text': 'Postes de travail/support : Anomalie à corriger. Investir dans le support utilisateur pour améliorer productivité et adoption des outils.', 'left': 7009035, 'top': 4668389, 'width': 4642910, 'height': 639392}
+{'chart_type': 'text', 'text': 'Sécurité : Légèrement bas, augmenter pour anticiper l’évolution des cybermenaces.', 'left': 7009035, 'top': 5383728, 'width': 4642910, 'height': 639392}

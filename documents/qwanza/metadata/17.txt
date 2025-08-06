@@ -1,0 +1,34 @@
+
+                    Slide Number 17
+                    Slide Title : Gestion des Fournisseurs : Gestion des Fournisseurs et Software Asset Management (SAM)
+                    Slide Text : Résultats des questionnairesGestion des Fournisseurs : Gestion des Fournisseurs et Software Asset Management (SAM)FournisseursRelations avec les fournisseurs stratégiques bien gérées, favorisant une collaboration efficace.Conformité des fournisseurs aux exigences de sécurité et réglementations en vigueur.Documentation partielle des relations, amorçant une meilleure traçabilité.Absence d’un processus formalisé pour la sélection et l’évaluation des fournisseurs.Faible suivi des KPIs et absence de plan de continuité pour les défaillances.Optimisation limitée des coûts et des SLA non totalement respectés.Mettre en place un processus structuré pour la sélection et l’évaluation des fournisseurs.Développer un tableau de bord avec des KPIs pour suivre performances et SLA.Élaborer un plan de continuité pour réduire les risques liés aux défaillances fournisseurs.SAMInventaire des logiciels et contrats de licences bien gérés, assurant un suivi rigoureux.Coûts des logiciels régulièrement évalués et optimisés pour un meilleur contrôle budgétaire.Outils SAM adoptés pour gérer efficacement les actifs logiciels et renouvellements.Absence de formation des équipes aux bonnes pratiques SAM, limitant leur efficacité.Suivi des métriques SAM inexistant, réduisant la visibilité sur la performance globale.Audits partiels et gestion limitée des logiciels inutilisés, augmentant les gaspillages..Mettre en place un tableau de bord pour suivre les métriques clés SAM.Renforcer les audits internes et supprimer les logiciels inutilisés pour réduire les coûts.Former les équipes aux bonnes pratiques SAM pour améliorer la gestion des licences.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Résultats des questionnaires', 'left': 455946, 'top': 44624, 'width': 4536802, 'height': 288924}
+{'chart_type': 'text', 'text': 'Gestion des Fournisseurs : Gestion des Fournisseurs et Software Asset Management (SAM)', 'left': 455946, 'top': 303731, 'width': 11002991, 'height': 432048}
+{'chart_type': 'text', 'text': 'Fournisseurs', 'left': -265851, 'top': 2387683, 'width': 1742830, 'height': 325917}
+{'chart_type': 'text', 'text': 'Relations avec les fournisseurs stratégiques bien gérées, favorisant une collaboration efficace.', 'left': 3549316, 'top': 1711572, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Conformité des fournisseurs aux exigences de sécurité et réglementations en vigueur.', 'left': 3549316, 'top': 1711572, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Documentation partielle des relations, amorçant une meilleure traçabilité.', 'left': 3549316, 'top': 1711572, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Absence d’un processus formalisé pour la sélection et l’évaluation des fournisseurs.', 'left': 6210759, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Faible suivi des KPIs et absence de plan de continuité pour les défaillances.', 'left': 6210759, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Optimisation limitée des coûts et des SLA non totalement respectés.', 'left': 6210759, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Mettre en place un processus structuré pour la sélection et l’évaluation des fournisseurs.', 'left': 8883299, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Développer un tableau de bord avec des KPIs pour suivre performances et SLA.', 'left': 8883299, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Élaborer un plan de continuité pour réduire les risques liés aux défaillances fournisseurs.', 'left': 8883299, 'top': 1728323, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'SAM', 'left': -265851, 'top': 4307174, 'width': 1742830, 'height': 325917}
+{'chart_type': 'text', 'text': 'Inventaire des logiciels et contrats de licences bien gérés, assurant un suivi rigoureux.', 'left': 3549316, 'top': 3631063, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Coûts des logiciels régulièrement évalués et optimisés pour un meilleur contrôle budgétaire.', 'left': 3549316, 'top': 3631063, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Outils SAM adoptés pour gérer efficacement les actifs logiciels et renouvellements.', 'left': 3549316, 'top': 3631063, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Absence de formation des équipes aux bonnes pratiques SAM, limitant leur efficacité.', 'left': 6210759, 'top': 3647814, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Suivi des métriques SAM inexistant, réduisant la visibilité sur la performance globale.', 'left': 6210759, 'top': 3647814, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Audits partiels et gestion limitée des logiciels inutilisés, augmentant les gaspillages..', 'left': 6210759, 'top': 3647814, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Mettre en place un tableau de bord pour suivre les métriques clés SAM.', 'left': 8883299, 'top': 3647814, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Renforcer les audits internes et supprimer les logiciels inutilisés pour réduire les coûts.', 'left': 8883299, 'top': 3647814, 'width': 2534063, 'height': 1742828}
+{'chart_type': 'text', 'text': 'Former les équipes aux bonnes pratiques SAM pour améliorer la gestion des licences.', 'left': 8883299, 'top': 3647814, 'width': 2534063, 'height': 1742828}

@@ -1,0 +1,41 @@
+
+                    Slide Number 15
+                    Slide Title :  Les Opérations : Exploitation, Infrastructures, Cloud
+                    Slide Text : Résultats des questionnaires Les Opérations : Exploitation, Infrastructures, CloudExploitationInfrastructuresCloudIntégration des outils DEVSECOPS dans la production.CMDB et gestion des changements opérationnels.Sauvegardes, PCA et mises à jour assurant la résilience.Infrastructures modernes et alignées sur les besoins métiers.Sécurité renforcée et solutions de redondance bien établies.Transition cloud déjà anticipée.Stratégie cloud bien définie et alignée avec les besoins métiers.Sécurité robuste et intégration fluide avec les systèmes existants.Flexibilité, scalabilité et outils de monitoring en place.SLA non respectés, impactant la crédibilité.Absence de monitoring, augmentant les risques.Satisfaction utilisateur insuffisante, révélant des lacunes.Coûts d’infrastructure partiellement maîtrisés, augmentant les risques budgétaires.Coûts cloud partiellement maîtrisés.Formation insuffisante des équipes aux technologies cloud.Dépendance possible aux fournisseurs sans suivi rigoureux.Mettre en place un tableau de bord pour les SLA.Déployer un monitoring en temps réel pour anticiper les incidents.Optimiser les coûts avec des tableaux de bord financiers.Déployer des outils d’analyse pour anticiper les besoins.Améliorer la gestion et le suivi des contrats fournisseurs.Optimiser les dépenses cloud avec des outils de gestion des coûts.Renforcer la formation des équipes sur les technologies cloud.Évaluer et diversifier les fournisseurs.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Résultats des questionnaires', 'left': 455946, 'top': 44624, 'width': 4536802, 'height': 288924}
+{'chart_type': 'text', 'text': ' Les Opérations : Exploitation, Infrastructures, Cloud', 'left': 455946, 'top': 303731, 'width': 11002991, 'height': 432048}
+{'chart_type': 'text', 'text': 'Exploitation', 'left': -9364, 'top': 1907674, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Infrastructures', 'left': -9364, 'top': 3281845, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Cloud', 'left': -9364, 'top': 4693227, 'width': 1229852, 'height': 325917}
+{'chart_type': 'text', 'text': 'Intégration des outils DEVSECOPS dans la production.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'CMDB et gestion des changements opérationnels.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Sauvegardes, PCA et mises à jour assurant la résilience.', 'left': 3549316, 'top': 1488052, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Infrastructures modernes et alignées sur les besoins métiers.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Sécurité renforcée et solutions de redondance bien établies.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Transition cloud déjà anticipée.', 'left': 3549316, 'top': 2862223, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Stratégie cloud bien définie et alignée avec les besoins métiers.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Sécurité robuste et intégration fluide avec les systèmes existants.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Flexibilité, scalabilité et outils de monitoring en place.', 'left': 3549316, 'top': 4273605, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'SLA non respectés, impactant la crédibilité.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Absence de monitoring, augmentant les risques.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Satisfaction utilisateur insuffisante, révélant des lacunes.', 'left': 6210759, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Coûts d’infrastructure partiellement maîtrisés, augmentant les risques budgétaires.', 'left': 6210759, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Coûts cloud partiellement maîtrisés.', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Formation insuffisante des équipes aux technologies cloud.', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Dépendance possible aux fournisseurs sans suivi rigoureux.', 'left': 6210759, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Mettre en place un tableau de bord pour les SLA.', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Déployer un monitoring en temps réel pour anticiper les incidents.', 'left': 8883299, 'top': 1504803, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Optimiser les coûts avec des tableaux de bord financiers.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Déployer des outils d’analyse pour anticiper les besoins.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Améliorer la gestion et le suivi des contrats fournisseurs.', 'left': 8883299, 'top': 2878974, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Optimiser les dépenses cloud avec des outils de gestion des coûts.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Renforcer la formation des équipes sur les technologies cloud.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1229853}
+{'chart_type': 'text', 'text': 'Évaluer et diversifier les fournisseurs.', 'left': 8883299, 'top': 4290356, 'width': 2534063, 'height': 1229853}
